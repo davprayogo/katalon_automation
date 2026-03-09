@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Operator Login QR Code</name>
+   <tag></tag>
+   <elementGuidId>669714c1-8a81-41b9-b19a-11ff95e02176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>c710ad6d-b53d-4b10-8eba-f1076f69ddfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-24px leading-[28px] font-bold -tracking-[2%]</value>
+      <webElementGuid>ec6ba40e-7f1c-4d6b-a187-553ea9cdefb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operator Login QR Code</value>
+      <webElementGuid>08398f6b-209f-423a-92b8-87f6737d23c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;sticky top-20 z-10 px-6 py-4 bg-neutral-15&quot;]/div[@class=&quot;flex items-center justify-between py&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/h4[@class=&quot;text-24px leading-[28px] font-bold -tracking-[2%]&quot;]</value>
+      <webElementGuid>da2bba5d-dab6-40f4-b10f-502892aedc25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/h4</value>
+      <webElementGuid>dc6d3c7b-aad5-4086-9619-6cd657ea292e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utility'])[1]/preceding::h4[1]</value>
+      <webElementGuid>463e1345-6411-4706-89e6-b469d923410c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::h4[1]</value>
+      <webElementGuid>72d702c0-3886-4f3d-8e1b-e75d5b5a4764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Operator Login QR Code']/parent::*</value>
+      <webElementGuid>795df32a-56ed-4d16-b951-00b02b579311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>1272d04f-cb00-489a-b1f2-bfa71e2d332c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Operator Login QR Code' or . = 'Operator Login QR Code')]</value>
+      <webElementGuid>8937b1ab-7224-47e1-b44e-32bf776662fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

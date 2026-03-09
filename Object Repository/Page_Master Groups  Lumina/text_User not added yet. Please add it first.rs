@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_User not added yet. Please add it first</name>
+   <tag></tag>
+   <elementGuidId>1f5fbbde-f989-4156-b68c-3eafc1f5791a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabpanel-user']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ecf3e9ae-afd7-4b27-a830-3c4fa5db5382</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-16px leading-[28px] text-neutral-90</value>
+      <webElementGuid>87e2bc5c-43d2-446c-8555-2060dd0c6b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User not added yet. Please add it first.</value>
+      <webElementGuid>334864a2-cf55-4396-a348-8d209e8b7967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabpanel-user&quot;)/div[@class=&quot;p-4 rounded-md flex flex-col gap-3 items-center justify-center&quot;]/p[@class=&quot;text-16px leading-[28px] text-neutral-90&quot;]</value>
+      <webElementGuid>5e74b341-9392-4fdb-8561-d4eda429c746</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabpanel-user']/div/p</value>
+      <webElementGuid>5a895e63-b18c-4082-a01d-1a86326b89e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::p[1]</value>
+      <webElementGuid>9cc2394d-6e25-497b-a04f-8e097f46b575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Record Rules'])[1]/following::p[1]</value>
+      <webElementGuid>ac0475a7-960a-46fc-a5aa-93863ff67f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User not added yet. Please add it first.']/parent::*</value>
+      <webElementGuid>d38c3d13-911a-4a89-acd2-56cd46b1c978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/p</value>
+      <webElementGuid>dd86965c-0d03-4adf-9294-40031550548e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'User not added yet. Please add it first.' or . = 'User not added yet. Please add it first.')]</value>
+      <webElementGuid>c2709bbc-3e9f-418c-b629-779d742e5491</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

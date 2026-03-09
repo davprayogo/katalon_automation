@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_All Modules_w-full h-full object-cover _51433c</name>
+   <tag></tag>
+   <elementGuidId>268ff3d6-9fe6-4ae9-9512-a5f1f94d3186</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.w-full.h-full.object-cover.object-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8adf0057-3842-4909-9276-7661a6d26f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>DAVID PRAYOGO, NGIEN</value>
+      <webElementGuid>8a89b2bc-d971-4d35-a136-2ae65fde01bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full h-full object-cover object-center</value>
+      <webElementGuid>5ad57c26-ba9d-42aa-93ef-01e9dc93b84b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://dev.identity.lumina.satnusa.com/api/USerPhotos/201078</value>
+      <webElementGuid>4f13067d-0773-434a-bb1d-d86aa5a80561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[@class=&quot;px-6 py-4 bg-neutral-10 border-b border-neutral-30 box-border h-20 fixed top-0 left-0 right-0 z-[100] flex items-center justify-between&quot;]/div[@class=&quot;flex items-center gap-3&quot;]/div[@class=&quot;rounded-full overflow-hidden flex items-center justify-center bg-primary-surface select-none focus:outline-none focus:ring-3 focus:ring-primary-focus active:scale-95&quot;]/img[@class=&quot;w-full h-full object-cover object-center&quot;]</value>
+      <webElementGuid>aea6dfaa-ac27-42b8-8832-27db85724093</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/img</value>
+      <webElementGuid>b29bf4f0-bc4f-44fa-94e7-b5699885309c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='DAVID PRAYOGO, NGIEN']</value>
+      <webElementGuid>20061ed8-0b98-44c6-8065-8f8f367ab54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/img</value>
+      <webElementGuid>a4cb3c4d-633d-4f26-a610-f4e3afb54b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'DAVID PRAYOGO, NGIEN' and @src = 'https://dev.identity.lumina.satnusa.com/api/USerPhotos/201078']</value>
+      <webElementGuid>7a96000f-c182-42e1-8810-c6b7642e6d13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

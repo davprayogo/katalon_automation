@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_record_rules_page_master_recordRules</name>
+   <tag></tag>
+   <elementGuidId>7433004a-669e-4727-b55c-10b1324c10c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>c7434569-5ead-40de-ba87-4a50098ff399</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-24px leading-[28px] font-bold -tracking-[2%]</value>
+      <webElementGuid>a6373ae4-7765-4b49-82f4-e50f44dfdfac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Record Rules</value>
+      <webElementGuid>f7e57f5c-bf58-4b12-b9fb-c033a22f6f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;sticky top-20 z-10 px-6 py-4 bg-neutral-15&quot;]/div[@class=&quot;flex items-center justify-between py&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/h4[@class=&quot;text-24px leading-[28px] font-bold -tracking-[2%]&quot;]</value>
+      <webElementGuid>8c2e3b5b-22a1-4b6d-9795-3b1bcc35ca81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/h4</value>
+      <webElementGuid>e8523362-7fd7-4b2e-90b8-20ae1deb35cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utility'])[1]/preceding::h4[1]</value>
+      <webElementGuid>116c2cd6-6fd4-4139-9ce3-1c8891c03c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::h4[1]</value>
+      <webElementGuid>8e91fb9e-77a1-4354-83dc-29af40807a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Record Rules']/parent::*</value>
+      <webElementGuid>eb099527-939d-43b3-9383-b8e739132b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>85fa7871-599c-4a58-ac06-27912bf24b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Record Rules' or . = 'Record Rules')]</value>
+      <webElementGuid>1fdc941c-aeb3-4ec3-959a-6a224ba25d42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

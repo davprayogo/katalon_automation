@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Page Master Record Rules tidak Error</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>975f8a6d-9f47-4482-8cf1-9c8ed102a473</testCaseGuid>
+</TestCaseEntity>

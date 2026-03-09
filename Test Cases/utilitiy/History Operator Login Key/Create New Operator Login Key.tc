@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create New Operator Login Key</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf5e12f1-b43e-4cd8-8c92-93c8cb798a2a</testCaseGuid>
+</TestCaseEntity>

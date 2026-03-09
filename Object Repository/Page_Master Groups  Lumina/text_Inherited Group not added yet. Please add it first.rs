@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Inherited Group not added yet. Please add it first</name>
+   <tag></tag>
+   <elementGuidId>66518c85-2cd3-4060-836f-31e94e092c74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabpanel-inhertedGroups']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0b5c710f-2b40-408e-9489-d605a33483c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-16px leading-[28px] text-neutral-90</value>
+      <webElementGuid>e3d6c76a-6871-4bb3-b73e-c744222dbbba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inherited Group not added yet. Please add it first.</value>
+      <webElementGuid>48c86eab-705c-4a05-87f7-90f6b4b4e33b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabpanel-inhertedGroups&quot;)/div[@class=&quot;p-4 rounded-md flex flex-col gap-3 items-center justify-center&quot;]/p[@class=&quot;text-16px leading-[28px] text-neutral-90&quot;]</value>
+      <webElementGuid>a1a71e0a-63b0-4692-b0de-d42def12c296</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabpanel-inhertedGroups']/div/p</value>
+      <webElementGuid>87f3f316-d610-407f-b0eb-94bce2b9fea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::p[1]</value>
+      <webElementGuid>79f5f97f-5651-493a-8958-07cfec2f6772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Record Rules'])[1]/following::p[1]</value>
+      <webElementGuid>e55dec51-a29c-4f4e-adb0-daa5736229b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inherited Group not added yet. Please add it first.']/parent::*</value>
+      <webElementGuid>ccd0a353-5cb2-4488-a86d-4c7d71239236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/p</value>
+      <webElementGuid>5b9a1e22-b1bb-4d01-9a80-b31339332bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Inherited Group not added yet. Please add it first.' or . = 'Inherited Group not added yet. Please add it first.')]</value>
+      <webElementGuid>a656ce24-92dc-4dc4-bb1d-f31405ba2ed3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

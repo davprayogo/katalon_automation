@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Operator Login QR Code</name>
+   <tag></tag>
+   <elementGuidId>128175de-5ea3-47a5-8615-56a240616750</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[19]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7e957a45-ed0c-44f9-a749-549526f8c3a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5a65a63b-a2d4-48bd-ae8a-a60ef42f6e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 hover:bg-neutral-20</value>
+      <webElementGuid>db2088dc-5f3f-4af9-96a9-2f33333eb129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Operator Login QR Code</value>
+      <webElementGuid>f2dcd684-f49d-4097-b0fe-fcc5ce59fa19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;absolute z-[2200] top-0 left-0 bg-neutral-10 dark:bg-neutral-30-dark shadow-box-2 rounded-lg&quot;]/div[1]/div[@class=&quot;flex justify-start py-3&quot;]/div[@class=&quot;px-3 border-r border-neutral-30 min-w-[204px] min-h-96&quot;]/button[@class=&quot;w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 hover:bg-neutral-20&quot;]</value>
+      <webElementGuid>82ae4f6b-9e1c-4111-b5b4-0954d18324ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[19]</value>
+      <webElementGuid>68c0b9bb-60d2-43e2-b744-08c9e113674b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::button[7]</value>
+      <webElementGuid>2c08f6aa-44ef-4cf1-8cda-f14bf3ad024b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[5]</value>
+      <webElementGuid>8ec7b8b7-73d2-4062-a3d0-696a33cdde18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Operator Login QR Code' or . = 'Operator Login QR Code')]</value>
+      <webElementGuid>6747ef7d-e2e5-4aff-8ab6-04f416855c67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

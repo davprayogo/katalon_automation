@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Master Users</name>
+   <tag></tag>
+   <elementGuidId>26bf3739-844c-4c19-a4e1-c5d340d4943f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[17]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Master Users' or . = 'Master Users')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>96b7201d-d0c1-474b-b9ad-4e693bbcd652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>20372a89-fd06-4d98-af7e-2769062e429a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 bg-neutral-40</value>
+      <webElementGuid>06a68c90-ccf0-4df3-9455-13968a5f2663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Users</value>
+      <webElementGuid>e82f57d4-ed00-44ac-afdb-2dff01e4240f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;absolute z-[2200] top-0 left-0 bg-neutral-10 dark:bg-neutral-30-dark shadow-box-2 rounded-lg&quot;]/div[1]/div[@class=&quot;flex justify-start py-3&quot;]/div[@class=&quot;px-3 border-r border-neutral-30 min-w-[204px] min-h-96&quot;]/button[@class=&quot;w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 bg-neutral-40&quot;]</value>
+      <webElementGuid>636b25a9-3070-4f22-80b3-f911031d1f2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[17]</value>
+      <webElementGuid>3c7a1bf1-1d13-42fb-8496-24c81b0ae9f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::button[3]</value>
+      <webElementGuid>341a91ea-0076-44c4-833f-3e3a136ffbb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div[2]/button</value>
+      <webElementGuid>56657016-ff25-4ba4-8265-27d874961ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Master Users' or . = 'Master Users')]</value>
+      <webElementGuid>36e1c1d2-6938-444f-b4a1-67e6fe0b391d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

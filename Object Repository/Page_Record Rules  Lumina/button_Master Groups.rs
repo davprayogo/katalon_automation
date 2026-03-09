@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Master Groups</name>
+   <tag></tag>
+   <elementGuidId>4aff761b-9593-425f-86cf-f16b6633ac58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a4f0678f-3b8f-4c0f-baff-d861e3e57872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e0f9791c-55c0-455e-9b92-ac4014b87279</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 bg-neutral-40</value>
+      <webElementGuid>291f5c0e-47b0-4144-a84a-e4f0865f71bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Groups</value>
+      <webElementGuid>276f72f9-12d0-482f-ad15-f05409552bac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;absolute z-[2200] top-0 left-0 bg-neutral-10 dark:bg-neutral-30-dark shadow-box-2 rounded-lg&quot;]/div[1]/div[@class=&quot;flex justify-start py-3&quot;]/div[@class=&quot;px-3 border-r border-neutral-30 min-w-[204px] min-h-96&quot;]/button[@class=&quot;w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 bg-neutral-40&quot;]</value>
+      <webElementGuid>e4e5d3ee-207a-4bbc-9abf-68a1bff25562</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>9bca1945-ef1f-42ac-a32d-2ad7fb51ae0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::button[6]</value>
+      <webElementGuid>614c3dec-9176-4437-9a66-e82b162fc68f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[3]</value>
+      <webElementGuid>8c66c514-a93e-48d7-ae01-8df93e75b0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Master Groups' or . = 'Master Groups')]</value>
+      <webElementGuid>e3633062-722d-4b38-af49-9d7d4d08f436</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

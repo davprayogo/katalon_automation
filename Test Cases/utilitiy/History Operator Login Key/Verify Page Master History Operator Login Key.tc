@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Page Master History Operator Login Key</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2d3f551-f3e1-4bc9-a68b-22b77d920657</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Multiple Record Rule</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94e133c8-a631-4f20-a6cd-4d15d20e7bfe</testCaseGuid>
+</TestCaseEntity>

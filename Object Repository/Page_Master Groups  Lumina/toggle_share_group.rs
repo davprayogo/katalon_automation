@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>toggle_share_group</name>
+   <tag></tag>
+   <elementGuidId>7f8a36a7-7f20-4143-a7a3-7df22b9d2ddb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;px-6 py-4 flex flex-col gap-4&quot;]/div[@class=&quot;bg-neutral-10 rounded-2xl p-4 border border-neutral-30&quot;]/form[@class=&quot;w-full max-w-screen-sm flex flex-col gap-3&quot;]/div[@class=&quot;flex gap-3 min-h-8 items-start&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative flex text-neutral-90 dark:text-neutral-90-dark flex-col gap-0.5&quot;]/div[@class=&quot;w-fit flex items-center gap-2.5 rounded-md py-1.5&quot;]/div[1]/div[@class=&quot;rounded-full transition-colors relative focus:ring-3 ring-primary-focus dark:ring-primary-focus-dark w-7 h-4 bg-neutral-40 dark:bg-neutral-40-dark&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/form/div[3]/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec6447ca-f479-4b02-b2d9-2c84cdbef9d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>176c071d-de74-4b28-9697-674e9d158c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bee74c75-52a2-47ce-983e-3492dbf82e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-full transition-colors relative focus:ring-3 ring-primary-focus dark:ring-primary-focus-dark w-7 h-4 bg-neutral-40 dark:bg-neutral-40-dark</value>
+      <webElementGuid>371c1821-c874-4874-b079-cdd71220646d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;px-6 py-4 flex flex-col gap-4&quot;]/div[@class=&quot;bg-neutral-10 rounded-2xl p-4 border border-neutral-30&quot;]/form[@class=&quot;w-full max-w-screen-sm flex flex-col gap-3&quot;]/div[@class=&quot;flex gap-3 min-h-8 items-start&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative flex text-neutral-90 dark:text-neutral-90-dark flex-col gap-0.5&quot;]/div[@class=&quot;w-fit flex items-center gap-2.5 rounded-md py-1.5&quot;]/div[1]/div[@class=&quot;rounded-full transition-colors relative focus:ring-3 ring-primary-focus dark:ring-primary-focus-dark w-7 h-4 bg-neutral-40 dark:bg-neutral-40-dark&quot;]</value>
+      <webElementGuid>0f9285cc-840a-47e2-9cc9-5de480b1ee32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/form/div[3]/div[2]/div/div/div/div</value>
+      <webElementGuid>2196ae24-e5d7-48ed-9810-7587533e55e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[10]</value>
+      <webElementGuid>46ea2c02-f957-4073-a5c3-5a648a80648a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::div[15]</value>
+      <webElementGuid>082b2feb-d0f1-46e6-b972-9101eb01c977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactive'])[1]/preceding::div[2]</value>
+      <webElementGuid>697ea14d-9003-4893-8055-67921f94cff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::div[8]</value>
+      <webElementGuid>c348c3ef-0f8f-4bed-aaec-ea93a0fcf5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>a8cd4446-29ae-449e-ada6-0d8d63598a6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

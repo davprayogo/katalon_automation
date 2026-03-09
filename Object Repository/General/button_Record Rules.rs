@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Record Rules</name>
+   <tag></tag>
+   <elementGuidId>ebe1ad71-d5d9-427f-8dd2-8fd8de78c672</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[20]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Master Record Rules' or . = 'Master Record Rules')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a8ab387a-1f6a-4f22-a7a6-bc1ba26e821d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>89f1a442-ac91-41bc-b169-30e24c96e5c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 bg-neutral-40</value>
+      <webElementGuid>0cc62fa3-f037-459b-8d6a-d2c7547f026a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Record Rules</value>
+      <webElementGuid>994e1dc7-2842-43f7-bd2a-20a777b57ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;absolute z-[2200] top-0 left-0 bg-neutral-10 dark:bg-neutral-30-dark shadow-box-2 rounded-lg&quot;]/div[1]/div[@class=&quot;flex justify-start py-3&quot;]/div[@class=&quot;px-3 border-r border-neutral-30 min-w-[204px] min-h-96&quot;]/button[@class=&quot;w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 bg-neutral-40&quot;]</value>
+      <webElementGuid>276aaa2c-031d-4fb3-adad-7c613d3b3691</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[20]</value>
+      <webElementGuid>ccccd061-56ce-4534-a665-e9d025b2bec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::button[6]</value>
+      <webElementGuid>b3aed0bc-974a-4498-b98b-827bc28c7471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>c5262629-459b-4cdc-8836-4bf98a25006e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Record Rules' or . = 'Record Rules')]</value>
+      <webElementGuid>be1cf14f-065f-476e-b970-451579988b8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

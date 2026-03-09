@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_MOM Suite</name>
+   <tag></tag>
+   <elementGuidId>aeb0cc85-8fa2-4fcc-bcaf-feab10c530c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>aadeb30b-35bf-4971-86d2-2a8ab3963872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-16px leading-[28px] font-semibold text-neutral-90</value>
+      <webElementGuid>0d228ac8-4efd-43f4-ad62-dc2ab37ef827</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MOM Suite</value>
+      <webElementGuid>478faed6-f467-4646-8992-88de5f49b2a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;bg-neutral-10 flex min-w-screen-lg&quot;]/div[@class=&quot;h-screen w-full max-w-[480px] p-8 flex flex-col justify-center gap-8&quot;]/div[@class=&quot;flex gap-3 items-center&quot;]/div[1]/p[@class=&quot;text-16px leading-[28px] font-semibold text-neutral-90&quot;]</value>
+      <webElementGuid>c5817733-04aa-484a-b21a-10837cca70ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/p</value>
+      <webElementGuid>7dbd4dcd-2c1d-4797-b646-7a5474ac0136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login with QR Number'])[1]/preceding::p[2]</value>
+      <webElementGuid>e7dae39f-089c-4eb6-b1c2-2ed927d30f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QR Code Number'])[1]/preceding::p[3]</value>
+      <webElementGuid>6425068c-1933-489b-bbb5-44db64fd74b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MOM Suite']/parent::*</value>
+      <webElementGuid>ef97c1b1-7098-4579-814a-b9db534fdb06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>769f4d77-0027-4158-a498-73926ed40899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'MOM Suite' or . = 'MOM Suite')]</value>
+      <webElementGuid>8465a125-5790-4df3-b74a-f99171c0e46f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

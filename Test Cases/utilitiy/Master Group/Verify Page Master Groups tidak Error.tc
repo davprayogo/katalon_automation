@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Page Master Groups tidak Error</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6c97629-2678-4ad9-85e0-e04d19e82f6e</testCaseGuid>
+</TestCaseEntity>

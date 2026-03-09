@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>create new master group with valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b2dafb7-e2ab-4dd0-ae3d-2f9f58cd9a67</testCaseGuid>
+</TestCaseEntity>

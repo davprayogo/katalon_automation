@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Record Rule not added yet. Please add it first</name>
+   <tag></tag>
+   <elementGuidId>a50b15a2-cbae-4e56-a35c-d61438a40957</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabpanel-recordRules']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9ddda867-603c-4fa8-92b0-13a6ecbadfb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-16px leading-[28px] text-neutral-90</value>
+      <webElementGuid>195964ae-2fce-47a9-9c79-d07987836249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Record Rule not added yet. Please add it first.</value>
+      <webElementGuid>c4b07ae4-28ae-4bb5-9e11-59026d645f7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabpanel-recordRules&quot;)/div[@class=&quot;p-4 rounded-md flex flex-col gap-3 items-center justify-center&quot;]/p[@class=&quot;text-16px leading-[28px] text-neutral-90&quot;]</value>
+      <webElementGuid>f19cb524-2195-4889-8096-aa93713f0dc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabpanel-recordRules']/div/p</value>
+      <webElementGuid>ca9b7724-f03b-41bb-be8c-01c8190b2ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::p[1]</value>
+      <webElementGuid>b3c42aa6-2ffe-4417-9383-807d2c060067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Record Rules'])[1]/following::p[1]</value>
+      <webElementGuid>12f2542e-042a-4c23-b029-790444e8baa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Record Rule not added yet. Please add it first.']/parent::*</value>
+      <webElementGuid>823999a2-94a5-4601-9f64-bc7ca5ea9308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/p</value>
+      <webElementGuid>3a463ced-56bd-4de5-8c29-81180aab0ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Record Rule not added yet. Please add it first.' or . = 'Record Rule not added yet. Please add it first.')]</value>
+      <webElementGuid>9ac595b4-2b5d-4d5f-8bd7-c23b1ef50732</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

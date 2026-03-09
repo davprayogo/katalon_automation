@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Review Users</name>
+   <tag></tag>
+   <elementGuidId>8f086f4b-cb49-41f4-8810-728c5a249ec0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>189757d7-426f-4703-962e-4cd3a38b8c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9b2433b1-f94c-4850-912b-4edb638d7268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-[5px] px-4 text-14px focus:ring-3 border drop-shadow bg-neutral-10 dark:bg-neutral-10-dark dark:hover:bg-neutral-20-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark text-primary-main dark:text-primary-main-dark border-primary-main dark:border-primary-main-dark hover:bg-primary-hover  hover:text-neutral-10 focus:ring-primary-focus</value>
+      <webElementGuid>32244c8c-dea6-4d93-91f7-90b1ffc69b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b1242f5e-f7d5-43a2-9d48-c7d9c645f0df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review Users</value>
+      <webElementGuid>b10c68a6-028e-475b-aaa7-584ca114321b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@id=&quot;modal-container&quot;]/div[@class=&quot;border border-neutral-40 dark:border-neutral-50-dark rounded-md drop-shadow-sm bg-neutral-10 dark:bg-neutral-10-dark m-8 flex flex-col max-h-[90vh]&quot;]/div[@class=&quot;px-6 py-3 bg-neutral-20 dark:bg-neutral-30-dark flex justify-end items-center gap-3 rounded-b-md&quot;]/button[@class=&quot;relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-[5px] px-4 text-14px focus:ring-3 border drop-shadow bg-neutral-10 dark:bg-neutral-10-dark dark:hover:bg-neutral-20-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark text-primary-main dark:text-primary-main-dark border-primary-main dark:border-primary-main-dark hover:bg-primary-hover  hover:text-neutral-10 focus:ring-primary-focus&quot;]</value>
+      <webElementGuid>8e61bf98-953e-455d-a7c5-e86f50f57d17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>eb46ad46-8d52-4b6b-83c3-7d0b37b48138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='modal-container']/div[2]/div[3]/button)[3]</value>
+      <webElementGuid>a9a3f0d7-cd65-4d69-ab28-8d90047001f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cannot be used again.'])[1]/following::button[1]</value>
+      <webElementGuid>d31bcbd6-7a4a-4694-a46c-3e8a25892604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Login QR Code Detected'])[1]/following::button[1]</value>
+      <webElementGuid>7041761f-0070-4a18-a614-40d1b7e6ff59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Replace and Generate'])[1]/preceding::button[1]</value>
+      <webElementGuid>22feca10-1881-4fa8-bfaa-fbbf96148614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div[3]/button</value>
+      <webElementGuid>3cf12ffb-b100-4a46-b2ce-a35474357b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Review Users' or . = 'Review Users')]</value>
+      <webElementGuid>db43451c-9557-458d-bf82-cb6c88bd78e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Master Plants</name>
+   <tag></tag>
+   <elementGuidId>6708e1d7-6caa-49e9-a63c-e42143161d06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>b5eabc41-5014-420c-bd91-bc65ccc6f9ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-24px leading-[28px] font-bold -tracking-[2%]</value>
+      <webElementGuid>965e310f-2d60-4ac6-92b5-d81c7f23a138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Plants</value>
+      <webElementGuid>19dad397-7a99-4ad6-acbc-acca16ef3391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;sticky top-20 z-10 px-6 py-4 bg-neutral-15&quot;]/div[@class=&quot;flex items-center justify-between py&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/h4[@class=&quot;text-24px leading-[28px] font-bold -tracking-[2%]&quot;]</value>
+      <webElementGuid>66a41cee-7465-4997-bb4b-2b1c09f80579</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/h4</value>
+      <webElementGuid>0860abc2-7002-4d39-b91f-2eeec415c383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utility'])[1]/preceding::h4[1]</value>
+      <webElementGuid>c1b95b97-0822-4ee6-92e8-86da76661ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::h4[1]</value>
+      <webElementGuid>bc713e50-3569-4c1c-bce7-e75be4972f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Master Plants']/parent::*</value>
+      <webElementGuid>48e9af64-59b0-433a-9bb2-e603f5a8ed06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>eaed5e11-2a86-4f0d-96cb-e8cb5c7883ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Master Plants' or . = 'Master Plants')]</value>
+      <webElementGuid>4d1b5e20-5e0d-4179-a981-8f8c07cf7721</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

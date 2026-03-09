@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_MES - Manufacturing Execution System</name>
+   <tag></tag>
+   <elementGuidId>ea75aa2b-df5b-4c28-a635-f67f05449bfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a9e3d335-ed81-4f63-bd97-8a833f3b14b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>68b30cfc-3fa2-4043-938c-b379dc1d5c91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-highlighted</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6b3b0606-3a17-43ec-bbe4-919112662f9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-1 w-full text-left cursor-pointer hover:bg-neutral-20 dark:hover:bg-neutral-20-dark </value>
+      <webElementGuid>95fc0013-0520-4396-b66f-7f300d44d07e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MES - Manufacturing Execution System</value>
+      <webElementGuid>75fb8fcd-be34-49ec-bb23-c110ded1bd06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;absolute z-[2300] bg-neutral-10 dark:bg-neutral-10-dark shadow-box-2 rounded-lg py-1.5 text-neutral-100 dark:text-neutral-100-dark overflow-y-auto cursor-default mt-1&quot;]/div[1]/button[@class=&quot;px-4 py-1 w-full text-left cursor-pointer hover:bg-neutral-20 dark:hover:bg-neutral-20-dark&quot;]</value>
+      <webElementGuid>8799bb41-a970-4f7d-b589-38ffbf0fb300</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>1e4a8244-02ef-4e33-881b-950c352d00b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QMS - Quality Management System'])[1]/following::button[1]</value>
+      <webElementGuid>22c945b9-b78b-4a57-930b-f12c4d2613e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APS - Advance Planning System'])[1]/following::button[2]</value>
+      <webElementGuid>231f419d-11c4-43be-bb30-1afc2c6d945e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WMS - Warehouse Management System'])[1]/preceding::button[1]</value>
+      <webElementGuid>99394985-5055-4572-a4fe-218af596c11c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PMS - Plant Management System'])[1]/preceding::button[2]</value>
+      <webElementGuid>2d817c57-1ad7-4062-99b1-c9ba0aeb609f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MES - Manufacturing Execution System']/parent::*</value>
+      <webElementGuid>b14a4e3b-d76b-4a2d-8a05-b0ab398079fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button[3]</value>
+      <webElementGuid>8cb4b239-e862-4cfc-9e57-9799a8eff1a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'MES - Manufacturing Execution System' or . = 'MES - Manufacturing Execution System')]</value>
+      <webElementGuid>229ca458-1c17-451f-96f5-d8235ab1e5d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

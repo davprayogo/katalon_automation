@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Access Right not added yet. Please add it first</name>
+   <tag></tag>
+   <elementGuidId>2d434f09-1176-4cbb-bee2-91a75e78e2ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabpanel-accessRight']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>32bebc86-8970-4c4b-a6d3-7a4e58e980d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-16px leading-[28px] text-neutral-90</value>
+      <webElementGuid>a6514dbf-fc4e-4824-b3e8-4a95af9eb47c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Access Right not added yet. Please add it first.</value>
+      <webElementGuid>acab56e0-cc54-4fb1-a00e-a2da1394d411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabpanel-accessRight&quot;)/div[@class=&quot;p-4 rounded-md flex flex-col gap-3 items-center justify-center&quot;]/p[@class=&quot;text-16px leading-[28px] text-neutral-90&quot;]</value>
+      <webElementGuid>75719740-94ad-42be-9e79-2f064af9cc11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabpanel-accessRight']/div/p</value>
+      <webElementGuid>4d0e9709-9fbd-40b9-bb95-6a2f8d2614ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::p[1]</value>
+      <webElementGuid>3cd2a55b-7125-4675-9b64-1fc97c6847cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Record Rules'])[1]/following::p[1]</value>
+      <webElementGuid>75d0b2fe-1ca2-4aa8-b05f-8ea4641a0639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Access Right not added yet. Please add it first.']/parent::*</value>
+      <webElementGuid>5e090310-fc54-45d2-9dea-08a8bbad03e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/p</value>
+      <webElementGuid>49c79fcb-09ee-4c7a-865d-986140231f84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Access Right not added yet. Please add it first.' or . = 'Access Right not added yet. Please add it first.')]</value>
+      <webElementGuid>79f1112f-8ce5-4071-a308-34eca44cde9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
