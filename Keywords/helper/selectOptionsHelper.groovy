@@ -38,24 +38,7 @@ public class selectOptionsHelper {
 		WebUI.click(optionObj)
 	
 	}
-	
-//	@Keyword
-//	def selectMultipleCustomDropdown1(List optionTexts) {
-//
-//		optionTexts.each { text ->
-//
-//			String xpath = "//button[@type='button' and contains(normalize-space(.),'${text}')]"
-//
-//			TestObject option = new TestObject("dynamicOption_" + text)
-//			option.addProperty("xpath", ConditionType.EQUALS, xpath)
-//
-//			WebUI.waitForElementVisible(option, 10)
-//			WebUI.click(option)
-//
-//			WebUI.delay(1)
-//		}
-//	}
-//	
+
 	@Keyword
 	def selectMultipleCustomDropdown(TestObject dropdown, List optionTexts, boolean shouldClose = true) {
 		WebUI.click(dropdown)	
@@ -107,5 +90,12 @@ public class selectOptionsHelper {
 	
 		WebUI.waitForElementVisible(target, 5)
 		WebUI.click(target)
+	}
+	
+	@Keyword
+	def ClearSelectedOption(TestObject selectField) {
+		WebUI.click(selectField)
+		WebUI.click(findTestObject('Object Repository/General/button_X_Clear Sleect'))
+		
 	}
 }

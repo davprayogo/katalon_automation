@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Page_Master Groups  Lumina/button_create_new_group')
 
 WebUI.click(findTestObject('General/button_burger_list_menu'))
 
-WebUI.click(findTestObject('General/button_Master Servers'))
+WebUI.click(findTestObject('General/Btn Menu/btn_menu_Master Servers'))
 
 WebUI.click(findTestObject('Page_Master Servers  Lumina/button_create_server'))
 

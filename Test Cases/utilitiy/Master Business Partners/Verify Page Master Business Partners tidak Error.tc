@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Page Master Business Partners tidak Error</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8e6445fd-d609-4f47-b510-18a4c6de4b1a</testCaseGuid>
+</TestCaseEntity>

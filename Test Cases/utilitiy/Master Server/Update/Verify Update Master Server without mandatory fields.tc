@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Update Master Server without mandatory fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82605dcf-9070-4cab-b525-6afa7c5653ec</testCaseGuid>
+</TestCaseEntity>

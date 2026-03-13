@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Record Rule with Duplicate name and invalid Rule Definition</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40d02f27-8783-4377-aa91-7746f74afd3f</testCaseGuid>
+</TestCaseEntity>

@@ -29,7 +29,7 @@ WebUI.click(findTestObject('Object Repository/Page_Master Group Detail  Lumina/s
 
 WebUI.click(findTestObject('Object Repository/Page_Master Group Detail  Lumina/button_MES - Manufacturing Execution System'))
 
-WebUI.click(findTestObject('Object Repository/Page_Master Group Detail  Lumina/button_Save'))
+WebUI.click(findTestObject('Object Repository/General/button_Save'))
 
 WebUI.click(findTestObject('Object Repository/Page_Master Group Detail  Lumina/button_Save_1'))
 

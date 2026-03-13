@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Page_Home  Lumina/button_module_utility (1)'))
 
 WebUI.click(findTestObject('General/button_burger_list_menu'))
 
-WebUI.click(findTestObject('General/button_Master Users'))
+WebUI.click(findTestObject('General/Btn Menu/btn_menu_Master Users'))
 
 WebUI.verifyElementVisible(findTestObject('Page_Master Users  Lumina/text_users_page_master_users'))
 

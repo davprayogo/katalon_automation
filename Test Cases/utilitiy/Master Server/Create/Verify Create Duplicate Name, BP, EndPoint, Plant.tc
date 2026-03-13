@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Create Duplicate Name, BP, EndPoint, Plant</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18dc40ac-4c63-4fb7-a23f-5e514b6c3a55</testCaseGuid>
+</TestCaseEntity>

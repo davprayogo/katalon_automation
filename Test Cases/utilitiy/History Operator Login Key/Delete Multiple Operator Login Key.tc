@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Multiple Operator Login Key</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d203873-fc9f-4de5-8d37-f58ccd6d7c11</testCaseGuid>
+</TestCaseEntity>

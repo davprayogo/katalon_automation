@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Business Parters With Duplicate Code and Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20b4f662-1136-42d6-9659-9f413abddcc8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Plant without Mandatory Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d1b9787-9ea0-4ded-9c35-07a5085d3ffa</testCaseGuid>
+</TestCaseEntity>

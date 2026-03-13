@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Record Rule without mandatory fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5265e6ef-5ecc-4477-a2e5-7494a71941e1</testCaseGuid>
+</TestCaseEntity>

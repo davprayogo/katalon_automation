@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Plant with duplicate Code and Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4bf79ce-011d-46d7-8d9f-ba4844044ae7</testCaseGuid>
+</TestCaseEntity>

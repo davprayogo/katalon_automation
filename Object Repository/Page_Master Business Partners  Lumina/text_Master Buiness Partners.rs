@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Master Buiness Partners</name>
+   <tag></tag>
+   <elementGuidId>0e1f4673-51d7-4b4b-8439-494cbf6b4ac2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>4c19b3ac-6acd-4a19-a9c3-a7f2bf59455e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-24px leading-[28px] font-bold -tracking-[2%]</value>
+      <webElementGuid>b453ee4b-f6bc-4e4c-b8e7-2355741726d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Business Partners</value>
+      <webElementGuid>3b42e1db-2202-4b93-89d3-1160fff2772a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;sticky top-20 z-10 px-6 py-4 bg-neutral-15&quot;]/div[@class=&quot;flex items-center justify-between py&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/h4[@class=&quot;text-24px leading-[28px] font-bold -tracking-[2%]&quot;]</value>
+      <webElementGuid>a17392c0-0f96-4e16-9668-84ecd7ab2837</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/h4</value>
+      <webElementGuid>1d51e9f1-91dd-48ac-bd78-01e0244929f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utility'])[1]/preceding::h4[1]</value>
+      <webElementGuid>423b7e80-5c56-4004-8493-dcc661ae1249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::h4[1]</value>
+      <webElementGuid>d5fe923a-ddc0-4497-82e2-ab5de8b54e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Master Business Partners']/parent::*</value>
+      <webElementGuid>bc67cec8-b407-462e-8779-d4a928c10acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>46313cf3-5c4f-44fe-bbcc-3402646ffd50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Master Business Partners' or . = 'Master Business Partners')]</value>
+      <webElementGuid>016c09c5-b856-487b-9d00-c66f6c7bd93a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Plant With Duplicate Code and Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bdcac3c9-2944-46df-8df2-a7c7cb624278</testCaseGuid>
+</TestCaseEntity>

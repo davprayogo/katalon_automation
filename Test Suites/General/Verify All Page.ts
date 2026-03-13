@@ -53,4 +53,11 @@
       <testCaseId>Test Cases/utilitiy/Master Plants/Verify Page Master Plants tidak Error</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>c29dbd6b-5abc-455d-87e8-841f5cff8898</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/utilitiy/Master Business Partners/Verify Page Master Business Partners tidak Error</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

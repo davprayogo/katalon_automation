@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Record Rule with Duplicate Name and Invalid Rule Definition</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7036bff3-d019-4a1a-a4e5-cb9d691edcb3</testCaseGuid>
+</TestCaseEntity>

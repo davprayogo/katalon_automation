@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_end Point must not be empty</name>
+   <tag></tag>
+   <elementGuidId>0af6d57c-00be-4c6d-b88c-593822e83036</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/form/div[4]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c8b770f-c769-4bd6-98bc-f0a26fb917bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full text-left mt-1 text-danger-main dark:text-danger-main-dark text-12px</value>
+      <webElementGuid>45672a4b-38b7-4d17-8a26-ee1c05e8b04a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>'end Point' must not be empty.</value>
+      <webElementGuid>af6f487a-6841-48fa-a783-4d01040d4c1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;px-6 py-4 flex flex-col gap-4&quot;]/div[@class=&quot;bg-neutral-10 rounded-2xl p-4 border border-neutral-30&quot;]/form[@class=&quot;w-full max-w-screen-sm flex flex-col gap-3&quot;]/div[@class=&quot;flex gap-3 min-h-8 items-start&quot;]/div[@class=&quot;relative flex-1&quot;]/div[@class=&quot;w-full text-left mt-1 text-danger-main dark:text-danger-main-dark text-12px&quot;]</value>
+      <webElementGuid>fef9775f-9018-4d6d-b623-2122b2957daf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/form/div[4]/div[2]/div[2]</value>
+      <webElementGuid>7a0fcdd4-1dcf-4dec-a5a6-b0a976674cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='!'])[2]/following::div[1]</value>
+      <webElementGuid>a6e6b428-0d0b-4a2d-a866-5e7680f7342e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::div[5]</value>
+      <webElementGuid>21bd1431-bd94-4257-8bb6-2d8dd9e239dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/preceding::div[6]</value>
+      <webElementGuid>eb2ff915-7d56-4c44-b468-a18458e8d0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]</value>
+      <webElementGuid>9a0cbcf4-e97b-47fc-b5bb-718cc5dbbba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;'&quot; , &quot;end Point&quot; , &quot;'&quot; , &quot; must not be empty.&quot;) or . = concat(&quot;'&quot; , &quot;end Point&quot; , &quot;'&quot; , &quot; must not be empty.&quot;))]</value>
+      <webElementGuid>5b0aabee-1b5c-40d3-8d05-a21d819d4279</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -30,8 +30,8 @@ public class Login {
 		WebUI.waitForElementVisible(findTestObject('Object Repository/Page_lumina_web/button_login_with_sso'), GlobalVariable.waitPresentTimeout)
 		
 		WebUI.click(findTestObject('Object Repository/Page_lumina_web/button_login_with_sso'))
-		WebUI.setText(findTestObject('Object Repository/Page_Sign in to uat/input_Username or email_username'), '201078')
-		WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to uat/input_Password_password'), 'P22/mDurbpJZaJ97AVsU8Q==')
+		WebUI.setText(findTestObject('Object Repository/Page_Sign in to uat/input_Username or email_username'), badge)
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to uat/input_Password_password'), password)
 		WebUI.click(findTestObject('Object Repository/Page_Sign in to uat/button_Sign In'))
 		
 		
@@ -59,10 +59,16 @@ public class Login {
 		
 		WebUI.click(findTestObject('Object Repository/Page_lumina_web/button_login_with_operator_login_key'))
 		WebUI.click(findTestObject('Object Repository/Page_lumina_web/button_Enter QR Code number manually'))
-		WebUI.setText(findTestObject('Object Repository/Page_lumina_web/input_QR Code Number_textfield-loginKey-_r_1_'), operatorLoginKey)
+		WebUI.setText(findTestObject('Object Repository/Page_lumina_web/input_QR Code Number loginKey'), operatorLoginKey)
 		WebUI.click(findTestObject('Object Repository/Page_lumina_web/span_Login'))
 		
 	}
+	
+	@Keyword
+	def static void loginWithOperatorKey_withGlobalVariable() {
+		loginWithOperatorLoginKey(GlobalVariable.uat_lumina_url, GlobalVariable.operator_login_key)
+	}
+	
 	
 	@Keyword
 	def static void logout() {

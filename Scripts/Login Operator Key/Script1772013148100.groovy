@@ -25,7 +25,7 @@ WebUI.click(findTestObject('Object Repository/Page_lumina_web/button_login_with_
 
 WebUI.click(findTestObject('Object Repository/Page_lumina_web/button_Enter QR Code number manually'))
 
-WebUI.setText(findTestObject('Object Repository/Page_lumina_web/input_QR Code Number_textfield-loginKey-_r_1_'), '702eb962d67d47aa9d156f6148de9848')
+WebUI.setText(findTestObject('Object Repository/Page_lumina_web/input_QR Code Number loginKey'), '702eb962d67d47aa9d156f6148de9848')
 
 WebUI.click(findTestObject('Object Repository/Page_lumina_web/span_Login'))
 

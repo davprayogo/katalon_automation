@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Update Business Partner with duplicate Code and Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2d127335-e6cd-4a15-bb79-ce826578a745</testCaseGuid>
+</TestCaseEntity>

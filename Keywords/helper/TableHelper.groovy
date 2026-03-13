@@ -92,61 +92,60 @@ public class TableHelper {
 	}
 	
 	@Keyword
-	def selectCheckboxByColumnAndValueWithPagination(String columnName, String value) {
+	def ClickDetailByColumnAndValueWithPagination(String columnName, String value) {
 
 		boolean isFound = false
 		int maxLoop = 50
 		int currentLoop = 0
-
+	
 		while (!isFound && currentLoop < maxLoop) {
-
+	
 			currentLoop++
 			println("🔎 Checking page ke-" + currentLoop)
-
-			// 1️⃣ Cari index column berdasarkan header
+	
+			// 1️⃣ Cari index column dari header
 			String headerXpath = "//th[normalize-space()='" + columnName + "']"
+	
 			TestObject headerObj = new TestObject()
 			headerObj.addProperty("xpath", ConditionType.EQUALS, headerXpath)
-
+	
 			WebUI.verifyElementPresent(headerObj, 5)
-
+	
 			int columnIndex = WebUI.findWebElements(headerObj, 5)
 				.get(0)
 				.findElements(org.openqa.selenium.By.xpath("preceding-sibling::th"))
 				.size() + 1
-
+	
 			println("📌 Column index ditemukan: " + columnIndex)
-
-			// 2️⃣ Cari row berdasarkan column index
+	
+			// 2️⃣ Cari row sesuai column + value
 			String rowXpath = "//tr[td[" + columnIndex + "][contains(normalize-space(),'" + value + "')]]"
-			String checkboxXpath = rowXpath + "//input[@type='checkbox']"
-
+	
 			TestObject rowObj = new TestObject()
 			rowObj.addProperty("xpath", ConditionType.EQUALS, rowXpath)
-
+	
 			boolean present = WebUI.verifyElementPresent(rowObj, 3, FailureHandling.OPTIONAL)
-
+	
 			if (present) {
-
-				TestObject checkboxObj = new TestObject()
-				checkboxObj.addProperty("xpath", ConditionType.EQUALS, checkboxXpath)
-
-				WebUI.scrollToElement(checkboxObj, 3)
-				WebUI.click(checkboxObj)
-
-				println("✅ Data ditemukan & checkbox diklik")
+	
+				WebUI.scrollToElement(rowObj, 3)
+				WebUI.waitForElementClickable(rowObj, 5)
+				WebUI.click(rowObj)
+	
+				println("✅ Data ditemukan & row diklik -> masuk detail")
+	
 				isFound = true
 				break
 			}
-
-			// 3️⃣ Cek tombol next
+	
+			// 3️⃣ cek next page
 			TestObject nextBtn = new TestObject()
 			nextBtn.addProperty("xpath", ConditionType.EQUALS,
 				"//button[not(@disabled) and (contains(.,'Next') or @aria-label='Next page')]"
 			)
-
+	
 			boolean hasNext = WebUI.verifyElementPresent(nextBtn, 3, FailureHandling.OPTIONAL)
-
+	
 			if (hasNext) {
 				WebUI.click(nextBtn)
 				WebUI.delay(1)
@@ -154,9 +153,9 @@ public class TableHelper {
 				break
 			}
 		}
-
+	
 		if (!isFound) {
-			assert false : "❌ Data dengan value '${value}' pada column '${columnName}' tidak ditemukan."
+			assert false : "❌ Data '${value}' pada column '${columnName}' tidak ditemukan."
 		}
 	}
 	

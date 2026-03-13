@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Page_Home  Lumina/button_module_utility (1)'))
 
 WebUI.click(findTestObject('General/button_burger_list_menu'))
 
-WebUI.click(findTestObject('General/button_Operator Login QR Code'))
+WebUI.click(findTestObject('General/Btn Menu/btn_menu_Operator Login Qr Codes'))
 
 WebUI.verifyElementVisible(findTestObject('Page_Operator Login QR Code  Lumina/text_Operator Login QR Code'))
 
