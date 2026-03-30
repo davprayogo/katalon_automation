@@ -26,48 +26,18 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0fa7918a-8913-4f5e-92cd-ab9bf2eaf244</guid>
+      <guid>7cb6402a-b83c-42e0-8191-edfca74dac68</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/utilitiy/Master Server/Create/Verify Create Duplicate Name, BP, EndPoint, Plant</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7cb6402a-b83c-42e0-8191-edfca74dac68</guid>
+      <guid>0fa7918a-8913-4f5e-92cd-ab9bf2eaf244</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/utilitiy/Master Server/Create/Create New Master Server With Valid Data</testCaseId>
+      <testCaseId>Test Cases/utilitiy/Master Server/Create/Verify Create Duplicate Name, BP, EndPoint, Plant</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>f7f0eb6d-bc78-4a26-845d-9d3d8c3b78f1</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>b0bfd730-e369-42d9-a28d-15d9488df963</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>150e0b48-1946-4c4d-88be-6c463ccb33bb</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>4aa28afc-d0a8-4cc8-bf68-1ae5e056b10a</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>37b08b02-1115-4d19-af60-e356ace13d79</variableId>
-      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>08586a0e-31de-498d-af64-6e6034e1949f</guid>

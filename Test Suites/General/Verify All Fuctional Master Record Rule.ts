@@ -47,13 +47,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>9aa08e72-b661-47c4-a559-af1df60bf0cf</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/utilitiy/Master Record Rules/Update/Update Record Rule with Duplicate Name and Invalid Rule Definition</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>85f6ec6f-0685-4c6a-a890-9a395393ffd7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -61,10 +54,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4ae77d57-24cc-4b79-aeab-b094b021abe1</guid>
+      <guid>bfc1e047-ba97-42a7-aa16-3bc508afad1b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/utilitiy/Master Record Rules/Delete/Delete Multiple Record Rule</testCaseId>
+      <testCaseId>Test Cases/utilitiy/Master Record Rules/Delete/Delete Record Rule</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

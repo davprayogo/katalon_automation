@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apply to all Server</name>
+   <tag></tag>
+   <elementGuidId>095bcb0d-2004-49bd-83cb-2efa1dc0e39c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9c0f5cb-5881-41be-a7af-e1f5c72fdcf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3fb0d92f-136e-4b4f-b361-e05f697c66eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-[5px] px-4 text-14px focus:ring-3 border drop-shadow bg-neutral-10 dark:bg-neutral-10-dark dark:hover:bg-neutral-20-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark text-neutral-100 dark:text-neutral-100-dark border-neutral-40 dark:border-neutral-100 bg-neutral-10 dark:bg-neutral-20-dark hover:bg-neutral-20 dark:hover:bg-neutral-30-dark active:bg-neutral-30 dark:active:bg-neutral-40-dark focus:ring-primary-focus dark:focus:ring-neutral-100-dark</value>
+      <webElementGuid>9e3272c9-1898-444c-8a7f-c1ae742480f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>90806368-8fa5-4bf8-af17-785d3415b09e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply to all Server</value>
+      <webElementGuid>98b31c5a-b63c-4dc0-bba6-6c9086eefcf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;border border-neutral-40 dark:border-neutral-50-dark rounded-md drop-shadow-sm bg-neutral-10 dark:bg-neutral-10-dark m-8 flex flex-col max-h-[90vh]&quot;]/div[@class=&quot;pb-4 px-6 h-full text-neutral-80 dark:text-neutral-90-dark text-14px flex-1 overflow-auto&quot;]/div[@class=&quot;flex gap-4&quot;]/form[@class=&quot;flex-1&quot;]/div[@class=&quot;flex items-center justify-between pb-3 border-b border-neutral-30&quot;]/button[@class=&quot;relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-[5px] px-4 text-14px focus:ring-3 border drop-shadow bg-neutral-10 dark:bg-neutral-10-dark dark:hover:bg-neutral-20-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark text-neutral-100 dark:text-neutral-100-dark border-neutral-40 dark:border-neutral-100 bg-neutral-10 dark:bg-neutral-20-dark hover:bg-neutral-20 dark:hover:bg-neutral-30-dark active:bg-neutral-30 dark:active:bg-neutral-40-dark focus:ring-primary-focus dark:focus:ring-neutral-100-dark&quot;]</value>
+      <webElementGuid>d1a95b46-0a43-4a38-923b-84a7af6b0e39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>fc4332e9-95b3-44ae-af95-e50000a93718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div[2]/div[2]/div[2]/form/div/button</value>
+      <webElementGuid>b6ba6ffc-6e47-49de-bb08-1fb031793f4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::button[2]</value>
+      <webElementGuid>d22e7415-2bd9-4877-baad-95270e8825d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::button[2]</value>
+      <webElementGuid>669a04ef-491a-44a1-8532-ebf8c9e2155a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/button</value>
+      <webElementGuid>8de03929-fea6-44d7-abf9-3c68ab9f8219</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Apply to all Server' or . = 'Apply to all Server')]</value>
+      <webElementGuid>60b25e7a-e0b6-42ee-b334-7999fbdf7404</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

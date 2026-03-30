@@ -6,8 +6,11 @@
    <elementGuidId>3785b77a-2b33-4b73-a762-7b2474cec51f</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/utility/master-data/record-rules' and (contains(text(), 'Master Record Rules') or contains(., 'Master Record Rules'))]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -23,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ce731cb9-dcb8-41f1-a273-d438284eafde</webElementGuid>
+      <webElementGuid>7477a9be-ef00-4997-b7f4-bbdf2d731218</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 bg-neutral-40</value>
-      <webElementGuid>6053d980-b770-4c6e-a0db-448a8074b898</webElementGuid>
+      <webElementGuid>449cd1c2-0cb6-49e6-90ad-9cc9816f1824</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +42,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9fa0d51d-bd35-4d3b-a1f1-c3c5e3ddd2cd</webElementGuid>
+      <webElementGuid>1cfe0c4a-f445-4dfd-920e-3b8d0113d015</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +50,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/utility/master-data/record-rules</value>
-      <webElementGuid>d326b5c3-9f9b-43c1-a7f9-66c60f8faaa1</webElementGuid>
+      <webElementGuid>d0291c96-ef2e-4ed6-966a-2b0e55e9e370</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,15 +58,15 @@
       <name>data-discover</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d931bfe3-d1d5-433d-80cb-4b199334fa79</webElementGuid>
+      <webElementGuid>64911df3-c672-47a0-991f-3480eb9b26cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Master Record Rules</value>
-      <webElementGuid>4f8ac2aa-d9be-40b2-a6ed-650ebf56033f</webElementGuid>
+      <value>Record Rules</value>
+      <webElementGuid>baae32d2-c5bc-4b5d-a12c-71fc7d5e43ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;absolute z-[2200]&quot;]/div[@class=&quot;bg-neutral-10 dark:bg-neutral-30-dark shadow-box-2 rounded-lg overflow-hidden&quot;]/div[1]/div[@class=&quot;flex justify-start py-3&quot;]/div[@class=&quot;px-3 border-r border-neutral-30 min-w-[204px] min-h-96&quot;]/a[@class=&quot;w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 bg-neutral-40&quot;]</value>
-      <webElementGuid>59c51aa3-9900-43d4-8048-df481cc8de34</webElementGuid>
+      <webElementGuid>37dc0740-0283-495a-b93e-09b271bc8aa3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::a[5]</value>
-      <webElementGuid>3311f940-e0cf-47d9-b6d9-42f9e20be420</webElementGuid>
+      <webElementGuid>6826a9a1-cecb-4d45-b2ca-fbf0870caea4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +90,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/utility/master-data/record-rules')]</value>
-      <webElementGuid>1f4cad4f-a6ef-4614-a656-84ab78b90285</webElementGuid>
+      <webElementGuid>17c6e80e-c0fd-4439-b497-535b00054547</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[4]</value>
-      <webElementGuid>323e9192-680f-4394-8396-455fec753f8c</webElementGuid>
+      <webElementGuid>5e3a26ae-3603-4c31-b362-e4ae8113ca84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/utility/master-data/record-rules' and (text() = 'Master Record Rules' or . = 'Master Record Rules')]</value>
-      <webElementGuid>44188db1-125c-484a-9168-b4f33fba5b29</webElementGuid>
+      <webElementGuid>a849cb62-6274-49ea-8c33-e2012be7668b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

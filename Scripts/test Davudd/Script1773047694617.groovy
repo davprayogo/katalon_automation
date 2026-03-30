@@ -19,3 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 CustomKeywords.'utility.Login.loginWithOperatorKey_withGlobalVariable'()
 
+WebUI.click(findTestObject('Page_Select Server  Lumina/button_server_dev1'))
+
+WebUI.click(findTestObject('Page_Select Server  Lumina/button_ContinueOrSubmitServer'))
+
+WebUI.click(findTestObject('Page_Home  Lumina/button_module_utility (1)'))
+
+WebUI.click(findTestObject('General/button_burger_list_menu'))
+
+WebUI.click(findTestObject('General/Btn Menu/btn_menu_Master Business Partners'))
+
+CustomKeywords.'helper.TableHelper.ClickDetailByColumnAndValueWithPagination'('Code', 'KLD')
+

@@ -27,15 +27,24 @@ WebUI.click(findTestObject('Page_Home  Lumina/button_module_utility (1)'))
 
 WebUI.click(findTestObject('General/button_burger_list_menu'))
 
-WebUI.click(findTestObject('General/Btn Menu/btn_menu_Master Business Partners'))
+WebUI.click(findTestObject('General/Btn Menu/btn_menu_Master Users'))
 
-WebUI.verifyElementVisible(findTestObject('Page_Master Business Partners  Lumina/text_Master Buiness Partners'))
+WebUI.click(findTestObject('Page_Master Users  Lumina/butto_create_user'))
 
-WebUI.verifyElementText(findTestObject('Page_Master Business Partners  Lumina/text_Master Buiness Partners'), 'Master Business Partners')
+WebUI.setText(findTestObject('Page_Master Users  Lumina/input_field_badgeNo'), '201078')
 
-WebUI.verifyElementVisible(findTestObject('Page_Master Business Partners  Lumina/list_data_table_master_business_partners'))
+WebUI.click(findTestObject('Page_Master Users  Lumina/button_Check Employee'))
 
-WebUI.takeFullPageScreenshot()
+WebUI.click(findTestObject('Page_Master Groups  Lumina/button_add_if_no_data'))
 
-WebUI.closeBrowser()
+CustomKeywords.'helper.TableHelper.selectMultipleCheckboxByColumnWithPagination'('Server Name', ['dev1', 'dev2'])
+
+WebUI.click(findTestObject('Page_Master Users  Lumina/button_Next'))
+
+CustomKeywords.'helper.DatePickerHelper.selectDateRange'(findTestObject('Page_Master Users  Lumina/input__daterangepicker-effective'), 
+    '2026-03-20', '2027-03-02')
+
+WebUI.click(findTestObject('Page_Master Users  Lumina/p_Effective Date'))
+
+WebUI.click(findTestObject('Page_Master Users  Lumina/button_Apply to all Server'))
 

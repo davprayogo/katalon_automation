@@ -29,7 +29,7 @@ WebUI.click(findTestObject('General/button_burger_list_menu'))
 
 WebUI.click(findTestObject('General/Btn Menu/btn_menu_Master Servers'))
 
-CustomKeywords.'helper.TableHelper.ClickDetailByColumnAndValueWithPagination'('Name', 'ASUS')
+CustomKeywords.'helper.TableHelper.ClickDetailByColumnAndValueWithPagination'('Name', 'asus')
 
 WebUI.click(findTestObject('General/button_Edit'))
 

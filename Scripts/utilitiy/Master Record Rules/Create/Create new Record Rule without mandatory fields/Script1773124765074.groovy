@@ -17,17 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'utility.Login.loginWithOperatorKey_withGlobalVariable'()
-
-WebUI.click(findTestObject('Page_Select Server  Lumina/button_server_dev1'))
-
-WebUI.click(findTestObject('Page_Select Server  Lumina/button_ContinueOrSubmitServer'))
-
-WebUI.click(findTestObject('Page_Home  Lumina/button_module_utility (1)'))
-
-WebUI.click(findTestObject('General/button_burger_list_menu'))
-
-WebUI.click(findTestObject('General/Btn Menu/btn_menu_Master Record Rules'))
+//CustomKeywords.'utility.Login.loginWithOperatorKey_withGlobalVariable'()
+//
+//WebUI.click(findTestObject('Page_Select Server  Lumina/button_server_dev1'))
+//
+//WebUI.click(findTestObject('Page_Select Server  Lumina/button_ContinueOrSubmitServer'))
+//
+//WebUI.click(findTestObject('Page_Home  Lumina/button_module_utility (1)'))
+//
+//WebUI.click(findTestObject('General/button_burger_list_menu'))
+//
+//WebUI.click(findTestObject('General/Btn Menu/btn_menu_Master Record Rules'))
 
 WebUI.click(findTestObject('Page_Record Rules  Lumina/button_create_record_rule'))
 
@@ -37,5 +37,5 @@ WebUI.verifyElementVisible(findTestObject('General/Validation/div_This field is 
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.closeBrowser()
+
 

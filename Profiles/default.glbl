@@ -34,7 +34,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'bceb0923f38f48dda17300e5f634efad'</initValue>
+      <initValue>'ca28fb36361a47d395c1db87595e2e15'</initValue>
       <name>operator_login_key</name>
       <protected>false</protected>
       <valueType>STRING</valueType>

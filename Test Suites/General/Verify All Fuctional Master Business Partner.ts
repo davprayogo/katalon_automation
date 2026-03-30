@@ -19,13 +19,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>9615505d-52ed-4c99-911c-49647d30a4eb</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/utilitiy/Master Business Partners/Create/Create New Business Partners</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>10781e10-99b6-4fc4-9eaf-5997d393aa4f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -33,10 +26,17 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4c9e075c-ab1e-4f52-b4a1-e15b2c79698e</guid>
+      <guid>9615505d-52ed-4c99-911c-49647d30a4eb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/utilitiy/Master Business Partners/Update/Update Business Partner with duplicate Code and Name</testCaseId>
+      <testCaseId>Test Cases/utilitiy/Master Business Partners/Create/Create New Business Partners</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>92f1f06b-1175-4295-a430-73b8c75138f1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/utilitiy/Master Business Partners/Create/Create Business Parters With Duplicate Code and Name</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -54,17 +54,10 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>92f1f06b-1175-4295-a430-73b8c75138f1</guid>
+      <guid>feddf3e3-e1e7-4ca2-a487-a5a831bbc7cc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/utilitiy/Master Business Partners/Create/Create Business Parters With Duplicate Code and Name</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>9386c36d-0f47-44cd-b670-3a8628074f80</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/utilitiy/Master Business Partners/Delete/Delete Multiple Business Partners</testCaseId>
+      <testCaseId>Test Cases/utilitiy/Master Business Partners/Delete/Delete Business Partners</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

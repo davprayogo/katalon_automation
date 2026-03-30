@@ -17,31 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'utility.Login.loginWithOperatorKey_withGlobalVariable'()
-
-WebUI.click(findTestObject('Page_Select Server  Lumina/button_server_dev1'))
-
-WebUI.click(findTestObject('Page_Select Server  Lumina/button_ContinueOrSubmitServer'))
-
-WebUI.click(findTestObject('Page_Home  Lumina/button_module_utility (1)'))
-
-WebUI.click(findTestObject('General/button_burger_list_menu'))
-
+//CustomKeywords.'utility.Login.loginWithOperatorKey_withGlobalVariable'()
+//
+//WebUI.click(findTestObject('Page_Select Server  Lumina/button_server_dev1'))
+//
+//WebUI.click(findTestObject('Page_Select Server  Lumina/button_ContinueOrSubmitServer'))
+//
+//WebUI.click(findTestObject('Page_Home  Lumina/button_module_utility (1)'))
+//
+//WebUI.click(findTestObject('General/button_burger_list_menu'))
 WebUI.click(findTestObject('General/Btn Menu/btn_menu_Master Servers'))
 
 WebUI.click(findTestObject('Page_Master Servers  Lumina/button_create_server'))
 
-WebUI.setText(findTestObject('Page_Master Servers  Lumina/input_field_name_server'), 'dev1')
+WebUI.setText(findTestObject('Page_Master Servers  Lumina/input_field_name_server'), 'ASUS')
 
-WebUI.setText(findTestObject('Page_Master Servers  Lumina/input_field_endpoint'), 'https://dev1.api.lumina-dev.satnusa.com')
+WebUI.setText(findTestObject('Page_Master Servers  Lumina/input_field_endpoint'), 'https://www.asus.com/id/')
 
 WebUI.setText(findTestObject('Page_Master Servers  Lumina/textarea_field_remarks'), '-')
 
 CustomKeywords.'helper.selectOptionsHelper.selectMultipleCustomDropdown'(findTestObject('Page_Master Servers  Lumina/select_field_plant'), 
-    ['IS13'], true)
+    ['XM22'], true)
 
 CustomKeywords.'helper.selectOptionsHelper.selectMultipleCustomDropdown'(findTestObject('Page_Master Servers  Lumina/select_field_businessPartner'), 
-    ['100013', '100014', '100015', '100016'], true)
+    ['XIAOMI'], true)
 
 WebUI.click(findTestObject('Page_Master Servers  Lumina/button_Save_server'))
 
@@ -58,6 +57,4 @@ WebUI.verifyElementVisible(findTestObject('Page_Master Servers  Lumina/Validatio
 WebUI.verifyElementVisible(findTestObject('Page_Master Servers  Lumina/Validation/div_The end point has been set in other ser_04d64c'))
 
 WebUI.takeFullPageScreenshot()
-
-WebUI.closeBrowser()
 

@@ -11,10 +11,13 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (contains(text(), 'Add') or contains(., 'Add'))]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8735e991-70bc-4b0a-86bf-52c0d72429ab</webElementGuid>
+      <webElementGuid>23be6d21-d665-49ce-b163-2e3745fc4c9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c3266d1a-4701-4455-8b8a-289baf0f0b8d</webElementGuid>
+      <webElementGuid>13288b06-504f-465f-a365-204f38355cc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 drop-shadow disabled:ring disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark text-primary-main dark:text-primary-main-dark bg-primary-surface dark:bg-primary-surface-dark hover:text-primary-hover dark:hover:text-primary-hover-dark active:text-primary-pressed dark:active:text-primary-pressed-dark focus:ring-primary-focus dark:focus:ring-primary-focus-dark</value>
-      <webElementGuid>49e91b71-0344-4497-826a-5d3a67acef4e</webElementGuid>
+      <webElementGuid>8c233be7-696e-4aeb-a0d8-45555c726ab2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,30 +50,15 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>8082288c-4064-4d3a-a082-35b6646230f3</webElementGuid>
+      <webElementGuid>aeace70b-5fef-426c-b09a-713ac0105b52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
+      <matchCondition>contains</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-          @keyframes spin {
-            to { transform: rotate(360deg); }
-          }
-          @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: .5; }
-          }
-          @keyframes bounce {
-            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
-            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
-          }
-          @keyframes ping {
-            75%, 100% { transform: scale(2); opacity: 0; }
-          }
-        Add</value>
-      <webElementGuid>f141d542-bbce-49dc-a267-ffa999db3729</webElementGuid>
+      <value>Add</value>
+      <webElementGuid>51522785-a4a0-47d6-8f24-c023d5811022</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tabpanel-user&quot;)/div[@class=&quot;p-4 rounded-md flex flex-col gap-3 items-center justify-center&quot;]/button[@class=&quot;relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 drop-shadow disabled:ring disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark text-primary-main dark:text-primary-main-dark bg-primary-surface dark:bg-primary-surface-dark hover:text-primary-hover dark:hover:text-primary-hover-dark active:text-primary-pressed dark:active:text-primary-pressed-dark focus:ring-primary-focus dark:focus:ring-primary-focus-dark&quot;]</value>
-      <webElementGuid>a02f3310-cea1-4144-99c6-f232ed55637c</webElementGuid>
+      <webElementGuid>fd61ae77-8462-431f-9c16-08d062ecb5c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[10]</value>
-      <webElementGuid>2f4df8f1-86c2-4363-a266-645f8c9aabf5</webElementGuid>
+      <webElementGuid>cb1d89e1-ef88-4968-a9ec-f4e6d812ab86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='tabpanel-user']/div/button</value>
-      <webElementGuid>82149605-cfc4-436b-91da-9dfc3bd4bef0</webElementGuid>
+      <webElementGuid>ab4a22ee-117a-4e6c-8de8-426932138db3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::button[1]</value>
-      <webElementGuid>cacb91a5-2802-4f62-bb71-e80deb14e1fb</webElementGuid>
+      <webElementGuid>297ab85a-9ca2-4535-8f48-d7e41aa3bcb8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Record Rules'])[1]/following::button[2]</value>
-      <webElementGuid>8fe54282-d311-4dc0-bdf8-e997865d49f1</webElementGuid>
+      <webElementGuid>a813c7b8-a6aa-4501-81e1-c28bc1fd0775</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div[2]/div/button</value>
-      <webElementGuid>11e2412b-ad09-4d57-81b9-353597783a5e</webElementGuid>
+      <webElementGuid>25f7631b-ba05-4294-8b8c-f599b26a6bee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -156,6 +144,6 @@
             75%, 100% { transform: scale(2); opacity: 0; }
           }
         Add')]</value>
-      <webElementGuid>92ced10e-af88-4e69-992d-ec7d4664dee0</webElementGuid>
+      <webElementGuid>f003df2e-89ef-49d7-89e6-f481afff54da</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

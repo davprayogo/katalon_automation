@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'utility.Login.loginWithSSO_withGlobalVariable'()
+CustomKeywords.'utility.Login.loginWithOperatorKey_withGlobalVariable'()
 
 WebUI.click(findTestObject('Page_Select Server  Lumina/button_server_dev1'))
 

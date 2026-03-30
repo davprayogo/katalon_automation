@@ -17,25 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://lumina-dev.satnusa.com/')
 
-WebUI.navigateToUrl('https://dev.lumina.satnusa.com/')
+WebUI.waitForPageLoad(GlobalVariable.waitPresentTimeout)
+
+WebUI.maximizeWindow()
+
+WebUI.waitForElementVisible(findTestObject('Object Repository/Page_lumina_web/button_login_with_sso'), GlobalVariable.waitPresentTimeout)
 
 WebUI.click(findTestObject('Object Repository/Page_lumina_web/button_login_with_sso'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign in to uat/input_Username or email_username'), '201078')
+WebUI.setText(findTestObject('Object Repository/Page_Sign in to uat/input_Username or email_username'), BadgeNo)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to uat/input_Password_password'), 'P22/mDurbpJZaJ97AVsU8Q==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in to uat/input_Password_password'), Password)
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to uat/button_Sign In'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Home  Lumina/img_All Modules_w-full h-full object-cover _51433c'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home  Lumina/img_All Modules_w-full h-full object-cover _51433c'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home  Lumina/button_logout'))
-
-WebUI.click(findTestObject('Object Repository/Page_Home  Lumina/span_Log out'))
-
-WebUI.verifyElementVisible(findTestObject('Page_lumina_web/button_login_with_sso'))
+WebUI.click(findTestObject(null))
 

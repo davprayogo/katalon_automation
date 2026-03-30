@@ -3,30 +3,30 @@
    <description></description>
    <name>button_save_confirmation</name>
    <tag></tag>
-   <elementGuidId>981f381d-7bfd-4cc0-b157-bd972433b7ce</elementGuidId>
+   <elementGuidId>b00584ff-09d5-412a-99db-87899a5e7a25</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@type = 'button' and (text() = 'Save' or . = 'Save')]</value>
+         <value> //*[@id=&quot;modal-container&quot;]/div[2]/div[3]/button[2][count(. | //button[@type = 'button' and (text() = 'Save' or . = 'Save')]) = count(//button[@type = 'button' and (text() = 'Save' or . = 'Save')])]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[6]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fb4a9ddf-a055-4d32-a42d-cb47401b85dd</webElementGuid>
+      <webElementGuid>f1604047-b9fc-4bd6-b832-33e4b23dcdfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ac7a0e7b-ad81-4f92-8efb-c23d508fedcf</webElementGuid>
+      <webElementGuid>7b539cc7-cfd8-4078-a864-69f487829497</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,7 +42,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 disabled:ring drop-shadow text-neutral-10 dark:text-neutral-10-dark disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark bg-primary-main dark:bg-primary-main-dark hover:bg-primary-hover dark:hover:bg-primary-hover-dark active:bg-primary-pressed dark:active:bg-primary-pressed-dark focus:bg-primary-hover dark:focus:bg-primary-hover-dark focus:ring-primary-focus dark:focus:ring-primary-focus-dark</value>
-      <webElementGuid>ffe86db7-baa4-4624-8c3d-e84f7c6fc516</webElementGuid>
+      <webElementGuid>4d7a2630-6bca-44bd-9ed0-1a16566b95cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>95806b1d-cdb9-4c2f-a26e-8330adc1307d</webElementGuid>
+      <webElementGuid>9130ce26-7c26-445c-8dbf-5964cf69fd62</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -58,15 +58,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>57438ea0-f43c-4c61-a7be-597d244e721a</webElementGuid>
+      <webElementGuid>15f60469-d608-4ccf-bba4-9f8ce0d5ab4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;modal-container&quot;)/div[@class=&quot;border border-neutral-40 dark:border-neutral-50-dark rounded-md drop-shadow-sm bg-neutral-10 dark:bg-neutral-10-dark m-8 flex flex-col max-h-[90vh]&quot;]/div[@class=&quot;px-6 py-3 bg-neutral-20 dark:bg-neutral-30-dark flex justify-end items-center gap-3 rounded-b-md&quot;]/button[@class=&quot;relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 disabled:ring drop-shadow text-neutral-10 dark:text-neutral-10-dark disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark bg-primary-main dark:bg-primary-main-dark hover:bg-primary-hover dark:hover:bg-primary-hover-dark active:bg-primary-pressed dark:active:bg-primary-pressed-dark focus:bg-primary-hover dark:focus:bg-primary-hover-dark focus:ring-primary-focus dark:focus:ring-primary-focus-dark&quot;]</value>
-      <webElementGuid>cb3d31e4-9440-491a-9262-81626986bccd</webElementGuid>
+      <value> //*[@id=&quot;modal-container&quot;]/div[2]/div[3]/button[2]</value>
+      <webElementGuid>92076476-8e65-4b0c-8034-b06add9d7814</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[6]</value>
-      <webElementGuid>f83776de-f3c0-4c1d-9e0d-ba319e834c8a</webElementGuid>
+      <webElementGuid>09b4a773-0442-4137-918e-8a50b391508c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-container']/div[2]/div[3]/button[2]</value>
-      <webElementGuid>77fb69eb-e318-4bdb-8760-5ad77a9c30c7</webElementGuid>
+      <webElementGuid>51df521b-3700-4438-8229-f99c81d993e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>72e8bcb8-cda6-42d4-a0eb-504521122c0a</webElementGuid>
+      <webElementGuid>3fd1bb0c-20ee-4bc7-9d8e-b6c86b9f9847</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New?'])[1]/following::button[2]</value>
-      <webElementGuid>cdbf57eb-1834-4d0f-ac30-46caeb31d71b</webElementGuid>
+      <webElementGuid>e1337e8c-06b6-4461-8643-c7761ccd0cd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -106,7 +106,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[3]/button[2]</value>
-      <webElementGuid>9ede979a-4673-4799-96fe-336e3fc2fa7f</webElementGuid>
+      <webElementGuid>771fa627-2c26-44e6-90ab-af4b5bcbe07b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -114,6 +114,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>2724fad3-dcfb-4dee-9372-66ce80f9ecb5</webElementGuid>
+      <webElementGuid>3ad545bd-09e4-4923-a81c-3ee7b3874604</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

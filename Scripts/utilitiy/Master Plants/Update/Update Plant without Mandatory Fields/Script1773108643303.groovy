@@ -17,19 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'utility.Login.loginWithOperatorKey_withGlobalVariable'()
-
-WebUI.click(findTestObject('Page_Select Server  Lumina/button_server_dev1'))
-
-WebUI.click(findTestObject('Page_Select Server  Lumina/button_ContinueOrSubmitServer'))
-
-WebUI.click(findTestObject('Page_Home  Lumina/button_module_utility (1)'))
-
-WebUI.click(findTestObject('General/button_burger_list_menu'))
-
+//CustomKeywords.'utility.Login.loginWithOperatorKey_withGlobalVariable'()
+//
+//WebUI.click(findTestObject('Page_Select Server  Lumina/button_server_dev1'))
+//
+//WebUI.click(findTestObject('Page_Select Server  Lumina/button_ContinueOrSubmitServer'))
+//
+//WebUI.click(findTestObject('Page_Home  Lumina/button_module_utility (1)'))
+//
+//WebUI.click(findTestObject('General/button_burger_list_menu'))
 WebUI.click(findTestObject('General/Btn Menu/btn_menu_Master Plants'))
 
-CustomKeywords.'helper.TableHelper.ClickDetailByColumnAndValueWithPagination'('Code', 'ASUS')
+CustomKeywords.'helper.TableHelper.ClickDetailByColumnAndValueWithPagination'('Plant Code', 'ASUS')
 
 WebUI.click(findTestObject('General/button_Edit'))
 
@@ -44,6 +43,4 @@ WebUI.click(findTestObject('General/button_Save'))
 WebUI.verifyElementVisible(findTestObject('General/Validation/div_This field is required'))
 
 WebUI.takeFullPageScreenshot()
-
-WebUI.closeBrowser()
 

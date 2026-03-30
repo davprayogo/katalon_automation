@@ -104,12 +104,12 @@ public class TableHelper {
 			println("🔎 Checking page ke-" + currentLoop)
 	
 			// 1️⃣ Cari index column dari header
-			String headerXpath = "//th[normalize-space()='" + columnName + "']"
+			String headerXpath = "//th[.//button[normalize-space()='" + columnName + "']]"
 	
 			TestObject headerObj = new TestObject()
 			headerObj.addProperty("xpath", ConditionType.EQUALS, headerXpath)
 	
-			WebUI.verifyElementPresent(headerObj, 5)
+			WebUI.verifyElementPresent(headerObj, 10)
 	
 			int columnIndex = WebUI.findWebElements(headerObj, 5)
 				.get(0)
@@ -174,7 +174,7 @@ public class TableHelper {
 			println("🔎 Checking page ke-" + currentLoop)
 
 			// 1️⃣ Cari column index
-			String headerXpath = "//th[normalize-space()='" + columnName + "']"
+			String headerXpath = "//th[.//button[normalize-space()='" + columnName + "']]"
 			TestObject headerObj = new TestObject()
 			headerObj.addProperty("xpath", ConditionType.EQUALS, headerXpath)
 
@@ -235,5 +235,14 @@ public class TableHelper {
 			assert false : "❌ Tidak semua value ditemukan. Missing: " +
 				(values - foundValues)
 		}
+	}
+	
+	@Keyword
+	def selectAllTableCheckbox() {
+		WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Master Users  Lumina/input_Apply to other servers_checkbox-selec_56e4c4'), 10)
+
+		WebUI.click(findTestObject('Object Repository/Page_Master Users  Lumina/input_Apply to other servers_checkbox-selec_56e4c4'))
+
+		WebUI.comment("Select all table rows (JS click)")
 	}
 }
