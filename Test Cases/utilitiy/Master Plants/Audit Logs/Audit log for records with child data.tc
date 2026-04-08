@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Audit log for records with child data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12fa0cc2-7bda-48cb-8bc3-477e656dbc5e</testCaseGuid>
+</TestCaseEntity>

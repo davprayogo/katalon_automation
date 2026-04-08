@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Download Template_absolute top-0 rig_05ac23</name>
+   <tag></tag>
+   <elementGuidId>25a25bd4-8ad3-4f58-a333-42f9c1e5cf81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.absolute.top-0.right-0.bottom-0.left-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[25]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>597bec4e-d3d7-4897-bcf8-7d97e2d5dff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>838cafb1-474a-4a76-a33c-05f6b05d4202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Open upload dialog</value>
+      <webElementGuid>24be1793-9a30-4754-b4ad-804a5942e697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute top-0 right-0 bottom-0 left-0</value>
+      <webElementGuid>51c3bcaf-dbcc-4360-bed8-e1be4a030a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;border border-neutral-40 dark:border-neutral-50-dark rounded-md drop-shadow-sm bg-neutral-10 dark:bg-neutral-10-dark m-8 flex flex-col max-h-[90vh]&quot;]/form[1]/div[@class=&quot;pb-4 px-6 h-full flex-1 overflow-auto&quot;]/div[@class=&quot;flex flex-col justify-start gap-3&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative border rounded-md flex flex-col items-center border-neutral-50 dark:border-neutral-50-dark hover:border-primary-hover dark:hover:border-primary-hover-dark focus:ring-primary-main dark:focus:ring-primary-main-dark bg-neutral-10 dark:bg-neutral-10-dark shadow-box-3 focus:ring-3 focus:ring-primary-focus focus:!border-primary-main&quot;]/div[@class=&quot;w-full p-6 flex flex-col items-center gap-3 text-center&quot;]/button[@class=&quot;absolute top-0 right-0 bottom-0 left-0&quot;]</value>
+      <webElementGuid>bf5f62ce-ad90-4ab2-8e6b-a503fefbf792</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[25]</value>
+      <webElementGuid>8758331c-14df-4c41-bfc4-aaa5d1d8c360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div[2]/form/div/div/div[2]/div/div/button</value>
+      <webElementGuid>8263008f-2a73-4045-b516-b184bd767fa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]/div/div/button</value>
+      <webElementGuid>ef970316-6d8c-4569-9197-289342cf637e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>d4ea2a1b-f701-40ea-9497-2b3c228df2dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
