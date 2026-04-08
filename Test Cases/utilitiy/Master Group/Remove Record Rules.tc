@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remove Record Rules</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d27be3a1-d9a4-4645-bfcc-fb509fbfee65</testCaseGuid>
+</TestCaseEntity>

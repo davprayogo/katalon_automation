@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create and Add Multiple Record Rules</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>29c37a6f-d784-4226-972f-b6eb8b16b41b</testCaseGuid>
+</TestCaseEntity>

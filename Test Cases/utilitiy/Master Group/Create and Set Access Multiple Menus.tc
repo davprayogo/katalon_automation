@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Remove User</name>
+   <name>Create and Set Access Multiple Menus</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>52f47aa2-468b-46b9-b4b8-fff1ac8aa93c</testCaseGuid>
+   <testCaseGuid>d23cdc40-e967-453a-8109-cafb23951b56</testCaseGuid>
 </TestCaseEntity>

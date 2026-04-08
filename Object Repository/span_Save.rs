@@ -6,12 +6,12 @@
    <elementGuidId>dfe90171-4626-47fc-9295-2b6fa418c20e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='btn-detail-save']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>216cfd13-6d1d-4562-aa07-f255754ad543</webElementGuid>
+      <webElementGuid>dd2707db-894e-4611-8229-9ee5d0f0ca8f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex justify-center items-center gap-1.5</value>
-      <webElementGuid>b98158ee-bf13-4fa8-9595-1e88ee7b1817</webElementGuid>
+      <webElementGuid>ddc5016d-488a-445c-9e66-0f9dc61cc1a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>d81cc969-9db1-483e-b1a8-806f4db9a8b2</webElementGuid>
+      <webElementGuid>91fe1ee7-1352-4711-9410-6a8daf0fb54f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-detail-save&quot;)/span[@class=&quot;flex justify-center items-center gap-1.5&quot;]</value>
-      <webElementGuid>b91607f8-d872-47a9-be46-a9651e076afb</webElementGuid>
+      <webElementGuid>1cd19969-ca45-43e5-b37e-be526a06e63e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,63 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='btn-detail-save']/span</value>
-      <webElementGuid>14f3250d-3ac6-4d0b-ad0c-884d22fbce24</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
-      <webElementGuid>2a20493c-656d-4f55-881f-b9db5de9ecc6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intern 3'])[1]/following::span[2]</value>
-      <webElementGuid>ff912fb7-cce3-4269-9af5-11b017be0665</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Information'])[1]/preceding::span[1]</value>
-      <webElementGuid>b0419040-9997-4393-8dcc-da52c300d57f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::span[1]</value>
-      <webElementGuid>fbba4e56-a1b3-4037-b53f-e7b6e3b9792e</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
-      <webElementGuid>d80ed352-9d0f-4cfe-9820-ad8ed6fa9f52</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/button[2]/span</value>
-      <webElementGuid>18963848-936f-42d5-898f-1ad1fced4523</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>8e82678a-475b-4a50-b5a5-c66ca37e1d85</webElementGuid>
+      <webElementGuid>392fdedd-6549-4171-969d-3198e8b28f26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::span[1]</value>
-      <webElementGuid>a860b9ae-2f43-4c0b-acdc-f326a1dcfec0</webElementGuid>
+      <webElementGuid>c906df45-bddf-4876-b7e7-f82d903c3ee5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +71,31 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[3]/following::span[1]</value>
-      <webElementGuid>0a06126a-37ba-4203-8520-bcb25ea01db1</webElementGuid>
+      <webElementGuid>c04b1f23-df56-4590-95b5-e383cdaf47c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Information'])[1]/preceding::span[1]</value>
+      <webElementGuid>231a2730-eb66-45cd-b897-6ee57050b5f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::span[1]</value>
+      <webElementGuid>1734b19c-72f9-4655-ada2-97763d9e5900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>6341612a-b7e2-4cb0-8a31-12db50654494</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +103,86 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button/span</value>
-      <webElementGuid>a8a6a047-d15e-4e47-a358-efa365d4146b</webElementGuid>
+      <webElementGuid>47a9e25e-e880-4b47-8664-1bbb119a14a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>6060e094-ebb0-4c6a-aba3-8d2b7263c46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>0c6f0365-d7e9-4f5d-929e-3f762b037bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Multiple Record Rules (Test)'])[1]/following::span[2]</value>
+      <webElementGuid>ac8ab0a1-85d7-4789-9243-36e51880374b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]/span</value>
+      <webElementGuid>63a29803-0426-4718-9791-1c2bae083c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New?'])[1]/following::span[2]</value>
+      <webElementGuid>3cade474-5816-4c0a-97f5-01eff1931243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]/span</value>
+      <webElementGuid>3c60c002-97ee-47d0-8dd7-197db374d079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Access Multipe Menus (Test)'])[1]/following::span[2]</value>
+      <webElementGuid>44592f14-9d85-4249-b8fd-40295e1efa36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intern 4'])[1]/following::span[2]</value>
+      <webElementGuid>61fff170-6ee7-4062-be94-2cbdf30a1a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intern'])[1]/following::span[2]</value>
+      <webElementGuid>fdd6215f-7cb4-477d-b959-6b4d26def08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intern 3'])[1]/following::span[2]</value>
+      <webElementGuid>a3a2ba90-f1cc-46db-a8b4-174231777118</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

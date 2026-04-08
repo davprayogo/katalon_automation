@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Set Access Multipe Menus (Test)</name>
+   <tag></tag>
+   <elementGuidId>8e18c22c-2795-4530-a74e-db2a23ff3d23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-table']/div[3]/div/table/tbody/tr/td[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.line-clamp-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>92a78a44-ea5f-4293-95c7-2f09b417e814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line-clamp-3</value>
+      <webElementGuid>ae559485-7440-4796-ae6a-3ea96776765c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Set Access Multipe Menus (Test)</value>
+      <webElementGuid>d730e712-c290-42b2-b926-28b6af80899f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-table&quot;)/div[@class=&quot;outline-none cursor-default text-neutral-100 dark:text-neutral-100-dark overflow-x-auto rounded-md ring-3 ring-primary-focus dark:ring-primary-focus-dark !border-primary-main dark:!border-primary-main-dark&quot;]/div[@class=&quot;overflow-y-auto border border-neutral-30 dark:border-neutral-30-dark rounded-md mb-4&quot;]/table[@class=&quot;w-full border-collapse table-auto&quot;]/tbody[1]/tr[@class=&quot;group border-b border-neutral-30 last:border-none text-14px hover:bg-neutral-20 dark:hover:bg-neutral-20-dark bg-neutral-10 dark:bg-neutral-10-dark even:bg-neutral-15 dark:even:bg-neutral-15-dark cursor-pointer&quot;]/td[@class=&quot;py-1.6 text-center break-words&quot;]/div[@class=&quot;px-4 py-3 text-left&quot;]/div[@class=&quot;line-clamp-3&quot;]</value>
+      <webElementGuid>71d22127-6df3-4aa5-b1db-1fa798a3c554</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-table']/div[3]/div/table/tbody/tr/td[2]/div/div</value>
+      <webElementGuid>a28b4b97-be16-404b-95ad-b6e36ba3ab6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[5]</value>
+      <webElementGuid>8e4c5641-e24b-4061-9f58-f687fb27eb47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Module'])[1]/following::div[8]</value>
+      <webElementGuid>85849f92-6604-4b2b-ab8f-89003055616b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::div[1]</value>
+      <webElementGuid>e2941353-cc73-481d-a0c1-c2278c37649b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::div[3]</value>
+      <webElementGuid>7b0e40c0-9467-4ab7-b0fb-589cbc2d0999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Set Access Multipe Menus (Test)']/parent::*</value>
+      <webElementGuid>d51d3354-0808-4b39-85b3-e197eb062149</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div</value>
+      <webElementGuid>ab1d4f78-b569-4962-ad4f-81b92de9bf78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Set Access Multipe Menus (Test)' or . = 'Set Access Multipe Menus (Test)')]</value>
+      <webElementGuid>41e114cb-4ef5-4fc7-9a5c-cc442d8efa29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

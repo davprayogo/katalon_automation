@@ -19,13 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.click(findTestObject('Object Repository/html_katalonfont-familymonospacefont-size13_0fa88e'))
-
 WebUI.navigateToUrl('https://lumina-dev.satnusa.com/select-server')
 
 WebUI.click(findTestObject('Object Repository/span_Login Again'))
 
-WebUI.click(findTestObject('Object Repository/span_keyframes spin             to  transfo_73a151'))
+WebUI.click(findTestObject('Page_lumina_web/button_login_with_sso'))
 
 WebUI.setText(findTestObject('Object Repository/input_Username or email_username'), '030690')
 
@@ -33,25 +31,27 @@ WebUI.setEncryptedText(findTestObject('Object Repository/input_Password_password
 
 WebUI.click(findTestObject('Object Repository/button_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/span_Sign In and End Other Session'))
+WebUI.click(findTestObject('Page_lumina_web/button_Sign In and End Other Session'))
 
-WebUI.click(findTestObject('Object Repository/button_keyframes spin             to  trans_c607ad'))
-
-WebUI.click(findTestObject('Object Repository/span_Continue'))
-
-WebUI.click(findTestObject('Object Repository/button_keyframes spin             to  trans_c607ad'))
+WebUI.click(findTestObject('Page_Select Server  Lumina/button_server_dev1'))
 
 WebUI.click(findTestObject('Object Repository/span_Continue'))
+
+WebUI.click(findTestObject('Page_Select Server  Lumina/button_server_dev1'))
+
+WebUI.click(findTestObject('Object Repository/button_Continue'))
 
 WebUI.click(findTestObject('Object Repository/a_keyframes spin             to  transform _3fdae5'))
 
-WebUI.click(findTestObject('Object Repository/svg'))
+WebUI.click(findTestObject('General/button_burger_list_menu'))
 
 WebUI.click(findTestObject('Object Repository/button_Master Data          keyframes spin _ebbf0f'))
 
-WebUI.click(findTestObject('Object Repository/a_Master Groups'))
+WebUI.click(findTestObject('Object Repository/p_Master Groups'))
 
-WebUI.click(findTestObject('Object Repository/div_Intern 3'))
+WebUI.click(findTestObject('Object Repository/div_Intern 4'))
+
+WebUI.click(findTestObject('Object Repository/div_Inherited Groups'))
 
 WebUI.click(findTestObject('Object Repository/span_keyframes spin             to  transfo_73a151'))
 

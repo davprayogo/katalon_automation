@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create and Add Multiple Inherited Groups</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5c146cc6-efb7-4d1c-99d3-b10ec31ab74d</testCaseGuid>
+</TestCaseEntity>

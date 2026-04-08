@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Record Rules</name>
+   <tag></tag>
+   <elementGuidId>2aeeea39-3571-473c-8626-5483cdb8ea8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/button[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82f57583-5df6-4a1f-925f-b071548b9568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full</value>
+      <webElementGuid>8cde8bb0-3cd4-42e1-8c07-2f45664fc6b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Record Rules</value>
+      <webElementGuid>a8657039-0b7a-4672-9cda-3cea2417526c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;px-6 py-4 flex flex-col gap-4&quot;]/div[@class=&quot;bg-neutral-10 rounded-2xl p-4 pt-8 border border-neutral-30 relative&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;relative flex gap-1 border-b border-neutral-30 mb-4&quot;]/button[@class=&quot;relative text-14px font-semibold flex items-center justify-between gap-2 px-4 pb-4 cursor-pointer select-none text-neutral-90 hover:text-primary-hover&quot;]/div[@class=&quot;w-full&quot;]</value>
+      <webElementGuid>efb56403-addb-43fc-97ea-59cc0a3ce9de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/button[4]/div</value>
+      <webElementGuid>b0bbc52c-39c3-4428-81d2-ef1537ec222c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Right'])[1]/following::div[1]</value>
+      <webElementGuid>86e95299-b22b-42a4-b0d1-93b442a2b49a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inherited Groups'])[1]/following::div[2]</value>
+      <webElementGuid>ae0987ae-8ddd-4f67-bbb6-320dd6008653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/preceding::div[1]</value>
+      <webElementGuid>b2cacbe9-73f4-42ed-9b64-12b358a7d330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Record Rules']/parent::*</value>
+      <webElementGuid>abfb5fb5-4a17-46e8-b0c0-740aa6c0e58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]/div</value>
+      <webElementGuid>fd6107cc-2d29-4c08-8a36-4777bf81a71d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Record Rules' or . = 'Record Rules')]</value>
+      <webElementGuid>47bc3953-9e11-4852-a5b4-b4d5ff3b94e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div[2]/div/div/button[4]/div</value>
+      <webElementGuid>cb385b3b-0abb-4581-b653-b7a169219ac8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

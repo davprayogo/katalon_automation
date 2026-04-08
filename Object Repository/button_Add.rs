@@ -6,12 +6,12 @@
    <elementGuidId>e26b6221-a733-4952-ae0a-96e4e3a45872</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[17]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[16]</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8bb9d76a-a189-432f-9fe1-e62fe9da4c9e</webElementGuid>
+      <webElementGuid>614aa3c6-8c49-4a3e-b967-69ffb04861b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1fc30876-5048-46f1-8624-ea7706a58e0f</webElementGuid>
+      <webElementGuid>460998b5-5db2-4a4b-852b-979829e2f787</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 disabled:ring drop-shadow text-neutral-10 dark:text-neutral-10-dark disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark bg-primary-main dark:bg-primary-main-dark hover:bg-primary-hover dark:hover:bg-primary-hover-dark active:bg-primary-pressed dark:active:bg-primary-pressed-dark focus:bg-primary-hover dark:focus:bg-primary-hover-dark focus:ring-primary-focus dark:focus:ring-primary-focus-dark</value>
-      <webElementGuid>3291cd26-b887-4968-8b19-0e64f9c5deb8</webElementGuid>
+      <webElementGuid>ea7990b7-e1f7-4d17-ae3e-b368901de189</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e9fd65cf-96da-4cd9-9e68-d99cc077908e</webElementGuid>
+      <webElementGuid>04b32349-b5ed-4c2d-a671-df2e9bab9088</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add</value>
-      <webElementGuid>fa325646-697c-4d58-bd28-0a3137fe15d3</webElementGuid>
+      <webElementGuid>6aaf6d43-ed90-4c4a-80e7-941c7335221f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;modal-container&quot;)/div[@class=&quot;border border-neutral-40 dark:border-neutral-50-dark rounded-md drop-shadow-sm bg-neutral-10 dark:bg-neutral-10-dark m-8 flex flex-col max-h-[90vh]&quot;]/div[@class=&quot;px-6 py-3 bg-neutral-20 dark:bg-neutral-30-dark flex justify-end items-center gap-3 rounded-b-md&quot;]/button[@class=&quot;relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 disabled:ring drop-shadow text-neutral-10 dark:text-neutral-10-dark disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark bg-primary-main dark:bg-primary-main-dark hover:bg-primary-hover dark:hover:bg-primary-hover-dark active:bg-primary-pressed dark:active:bg-primary-pressed-dark focus:bg-primary-hover dark:focus:bg-primary-hover-dark focus:ring-primary-focus dark:focus:ring-primary-focus-dark&quot;]</value>
-      <webElementGuid>96873734-1d50-4f97-bd3c-c112b93a2803</webElementGuid>
+      <webElementGuid>31e886cd-bf77-4f19-8261-c4afdf3f0e62</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[16]</value>
-      <webElementGuid>c2bf3fac-ce9b-4ea7-96e1-53f0aea5f73e</webElementGuid>
+      <value>(//button[@type='button'])[17]</value>
+      <webElementGuid>153505af-b50f-43cc-978e-38213473422d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='modal-container']/div[2]/div[3]/button[2]</value>
-      <webElementGuid>12ab35d0-37b6-4c40-81ab-d336e9501f27</webElementGuid>
+      <webElementGuid>50dcb0ae-02c0-4b37-9fef-9e5617184ca9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,15 +87,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>f0f2944b-6383-4662-bcc8-63b1666bad9c</webElementGuid>
+      <webElementGuid>f60afdf4-2b15-41c2-bfb7-6288027888fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share B'])[1]/following::button[2]</value>
-      <webElementGuid>bd820f5a-686a-424c-977a-f18324c1fced</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/utility/configuration/mail-group'])[1]/following::button[2]</value>
+      <webElementGuid>ab76cfa1-51d9-424b-9a6a-29f890cac134</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button[2]</value>
-      <webElementGuid>a9fa9c45-5e13-413b-b916-6d284a499f5d</webElementGuid>
+      <webElementGuid>ea73e7cf-80f6-48c4-9ce9-1be53ab36a9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,22 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Add' or . = 'Add')]</value>
-      <webElementGuid>6c3b8e8d-b823-4a42-a58d-1ece8b4431c0</webElementGuid>
+      <webElementGuid>2088477f-4b59-488d-9753-dd0b488cef2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[16]</value>
+      <webElementGuid>5440a029-89ee-4645-8505-7a24e6b16f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share B'])[1]/following::button[2]</value>
+      <webElementGuid>1e4e3229-f835-4686-a227-7e1944638c0f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

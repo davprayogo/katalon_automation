@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Intern 4</name>
+   <tag></tag>
+   <elementGuidId>86949a77-c438-4821-b855-7bd78ea69dfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-table']/div[3]/div/table/tbody/tr/td[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.line-clamp-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>547156de-afe8-40f5-a8f2-83337edea1a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line-clamp-3</value>
+      <webElementGuid>61f6e7d9-9f77-4188-93d4-7c561be5d116</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intern 4</value>
+      <webElementGuid>c2f3bf1b-27ef-462d-87c5-3ff2c7fe4e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-table&quot;)/div[@class=&quot;outline-none cursor-default text-neutral-100 dark:text-neutral-100-dark overflow-x-auto rounded-md ring-3 ring-primary-focus dark:ring-primary-focus-dark !border-primary-main dark:!border-primary-main-dark&quot;]/div[@class=&quot;overflow-y-auto border border-neutral-30 dark:border-neutral-30-dark rounded-md mb-4&quot;]/table[@class=&quot;w-full border-collapse table-auto&quot;]/tbody[1]/tr[@class=&quot;group border-b border-neutral-30 last:border-none text-14px hover:bg-neutral-20 dark:hover:bg-neutral-20-dark bg-neutral-10 dark:bg-neutral-10-dark even:bg-neutral-15 dark:even:bg-neutral-15-dark cursor-pointer&quot;]/td[@class=&quot;py-1.6 text-center break-words&quot;]/div[@class=&quot;px-4 py-3 text-left&quot;]/div[@class=&quot;line-clamp-3&quot;]</value>
+      <webElementGuid>5d85b3aa-b381-42a7-8764-6f2cb6dc39ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-table']/div[3]/div/table/tbody/tr/td[2]/div/div</value>
+      <webElementGuid>4d54f6de-c162-4051-8c83-794b2f79038b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[5]</value>
+      <webElementGuid>10ee571b-1225-4896-a821-1a36dab9d843</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Module'])[1]/following::div[8]</value>
+      <webElementGuid>b7d65c8e-bbf8-43fd-984b-25995fae1044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::div[1]</value>
+      <webElementGuid>4be2400c-b858-4ba1-83a4-81c0957214c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::div[3]</value>
+      <webElementGuid>ace92cfd-1b6e-40b2-bbf2-c6444ed005b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Intern 4']/parent::*</value>
+      <webElementGuid>b81918d4-b4a3-4889-8a40-85983d17f91a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div</value>
+      <webElementGuid>df8cda83-8b19-4ab8-a092-96103beb0f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Intern 4' or . = 'Intern 4')]</value>
+      <webElementGuid>1a9853ae-0511-430a-9eb4-879ffbba22ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

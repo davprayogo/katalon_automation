@@ -6,12 +6,12 @@
    <elementGuidId>5d7e27e1-fb3e-491c-b996-8503e235ee1d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/button[2]/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/div[2]/div[2]/div[2]/div/div/button[2]/div</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>0fbf0a9f-8a80-4b97-8dfd-b72cea565793</webElementGuid>
+      <webElementGuid>97d7ac73-6e2f-4db7-8b32-002eaf5ae7e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full</value>
-      <webElementGuid>3c3161e2-bf28-4890-bf7a-284a915ab0c0</webElementGuid>
+      <webElementGuid>ac6d9ead-5a1b-413d-b36a-16c424846eb3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Inherited Groups</value>
-      <webElementGuid>780bf866-fdb7-4e69-92b7-16a4875bc031</webElementGuid>
+      <webElementGuid>18990951-7ca4-4cdc-be76-8f6b9eb13d38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;px-6 py-4 flex flex-col gap-4&quot;]/div[@class=&quot;bg-neutral-10 rounded-2xl p-4 pt-8 border border-neutral-30 relative&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;relative flex gap-1 border-b border-neutral-30 mb-4&quot;]/button[@class=&quot;relative text-14px font-semibold flex items-center justify-between gap-2 px-4 pb-4 cursor-pointer select-none text-neutral-90 hover:text-primary-hover&quot;]/div[@class=&quot;w-full&quot;]</value>
-      <webElementGuid>2675d88d-1c22-4adc-aec4-279aae362af1</webElementGuid>
+      <webElementGuid>51aa1df5-b337-4233-b86b-69da21f78d8c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div[2]/div[2]/div[2]/div/div/button[2]/div</value>
-      <webElementGuid>fd4d48b8-6f8a-4471-bc13-4f7dad67b063</webElementGuid>
+      <value>//div[@id='root']/div/div[2]/div[2]/div[2]/div/div/button[2]/div</value>
+      <webElementGuid>2bf55f01-1919-4a05-8096-098cdae62d98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,15 +63,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::div[1]</value>
-      <webElementGuid>9767d4f8-8007-49ca-a36c-8267baa3a44a</webElementGuid>
+      <webElementGuid>4a3cf310-96b3-494e-b0dd-b0e3fc73ec52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/following::div[6]</value>
-      <webElementGuid>44b68e39-e4d5-4ee5-9930-9ef526afdbf2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::div[6]</value>
+      <webElementGuid>48fa9266-0f2e-4ba9-9cd3-6bb04eb7deb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Right'])[1]/preceding::div[1]</value>
-      <webElementGuid>87811138-846b-4a8d-b858-c1311684d420</webElementGuid>
+      <webElementGuid>04bc933e-f473-4662-b88b-e6c1db72dc4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Record Rules'])[1]/preceding::div[2]</value>
-      <webElementGuid>cb7396ef-ac87-4c02-af0c-db2b6a370967</webElementGuid>
+      <webElementGuid>4487755c-7449-4aed-92a6-7c0060872838</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Inherited Groups']/parent::*</value>
-      <webElementGuid>ef5afeb7-ef07-4692-a746-07bd6f490263</webElementGuid>
+      <webElementGuid>bef3c871-8680-4c6e-bcbc-bb70fac70978</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]/div</value>
-      <webElementGuid>92495806-478a-41f5-9064-5100cb6ca9f5</webElementGuid>
+      <webElementGuid>fff5e53a-0395-446e-8990-90ac64456db7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,22 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Inherited Groups' or . = 'Inherited Groups')]</value>
-      <webElementGuid>9efdaf05-2c3f-444b-b556-37372fe5ebce</webElementGuid>
+      <webElementGuid>335b7265-4591-4fa5-ba85-6f9d702d0926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div[2]/div[2]/div/div/button[2]/div</value>
+      <webElementGuid>dad67711-7a34-4c60-90f8-78e724dde6e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/following::div[6]</value>
+      <webElementGuid>18bf77bb-3bdf-41f9-a450-bad5b9214b7c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -47,9 +47,9 @@ WebUI.click(findTestObject('Object Repository/svg'))
 
 WebUI.click(findTestObject('Object Repository/button_Master Data          keyframes spin _ebbf0f'))
 
-WebUI.click(findTestObject('Object Repository/a_Master Groups'))
-
 WebUI.click(findTestObject('Object Repository/span_keyframes spin             to  transfo_73a151'))
+
+WebUI.click(findTestObject('Object Repository/a_Master Groups'))
 
 WebUI.setText(findTestObject('Object Repository/input__textfield-name-input'), 'Intern 3')
 

@@ -6,12 +6,11 @@
    <elementGuidId>2d1a21da-f37e-453e-8c3d-8cc3203288ad</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9e6d3f79-2a2b-4942-867d-7688ea7200ed</webElementGuid>
+      <webElementGuid>252f48a2-d94a-4224-8dbf-15046c842bdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>15572b44-08ca-46ee-a904-c432f00b5a9c</webElementGuid>
+      <webElementGuid>57801d43-459f-4f54-8ab3-85848a8f8567</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 disabled:ring drop-shadow text-neutral-10 dark:text-neutral-10-dark disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark bg-danger-main dark:bg-danger-main-dark hover:bg-danger-hover dark:hover:bg-danger-hover-dark active:bg-danger-pressed dark:active:bg-danger-pressed-dark focus:bg-danger-hover dark:focus:bg-danger-hover-dark focus:ring-primary-focus dark:focus:ring-danger-focus-dark</value>
-      <webElementGuid>c9af37a5-f181-49dc-961c-571ef457942f</webElementGuid>
+      <webElementGuid>20e1f3f0-9cd6-4781-9ba2-8841e1028f78</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cdf72099-cd3d-473d-b214-7fcb6c12b506</webElementGuid>
+      <webElementGuid>12a23f7e-05a9-4802-80c9-7aa1da3cd33c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign In and End Other Session</value>
-      <webElementGuid>99e10b1c-0ff2-4cde-b6f4-540779a5772d</webElementGuid>
+      <webElementGuid>33bf3128-8a71-4610-bf27-3de08a8263aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;flex items-center justify-center z-[1300] inset-0 fixed&quot;]/div[@class=&quot;border border-neutral-40 dark:border-neutral-50-dark rounded-md drop-shadow-sm bg-neutral-10 dark:bg-neutral-10-dark m-8 flex flex-col max-h-[90vh]&quot;]/div[@class=&quot;px-6 py-3 bg-neutral-20 dark:bg-neutral-30-dark flex justify-end items-center gap-3 rounded-b-md&quot;]/button[@class=&quot;relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 disabled:ring drop-shadow text-neutral-10 dark:text-neutral-10-dark disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark bg-danger-main dark:bg-danger-main-dark hover:bg-danger-hover dark:hover:bg-danger-hover-dark active:bg-danger-pressed dark:active:bg-danger-pressed-dark focus:bg-danger-hover dark:focus:bg-danger-hover-dark focus:ring-primary-focus dark:focus:ring-danger-focus-dark&quot;]</value>
-      <webElementGuid>0a283fbe-464d-49b6-9316-96fa25a004c4</webElementGuid>
+      <webElementGuid>64b7f158-0c70-4208-9640-fa0531f866ff</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>6357a50a-d72a-4e98-b464-d040abe26500</webElementGuid>
+      <webElementGuid>4bde9d1d-ff6a-4089-8964-0689753a603e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>629f1941-a73a-480a-82ac-c8fcb44a8337</webElementGuid>
+      <webElementGuid>f222e7f8-b951-44ef-9237-71efc637648b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Active session detected'])[1]/following::button[2]</value>
-      <webElementGuid>7308209f-65a7-42bd-a157-a590313c2258</webElementGuid>
+      <webElementGuid>f7b72b75-9fca-4c33-b35e-797af3e0bac8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>b768aea4-7c9e-4831-a3e4-213a80d93bec</webElementGuid>
+      <webElementGuid>97290d54-522d-4d19-ae6d-aa250892ee9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Sign In and End Other Session' or . = 'Sign In and End Other Session')]</value>
-      <webElementGuid>a2fc6072-5440-46c1-af5e-651ba8acc5f4</webElementGuid>
+      <webElementGuid>d286fb9a-0b9d-4405-907b-f42636e84dbc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

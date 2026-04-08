@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Remove Inherited Groups</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>492ff20a-93eb-4395-a18f-74d33d39a3ca</testCaseGuid>
+</TestCaseEntity>

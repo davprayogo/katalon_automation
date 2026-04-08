@@ -6,12 +6,12 @@
    <elementGuidId>8e0e6598-1ca9-4a6f-bb0c-76df313a79f1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div[2]/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ee9abc43-23ef-40df-9d94-9f9e43381e4e</webElementGuid>
+      <webElementGuid>41339ad6-edfc-49b3-8066-ba70372891ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex justify-center items-center gap-1.5</value>
-      <webElementGuid>23b08b3a-f18d-4dab-b6c9-99e2588cefa6</webElementGuid>
+      <webElementGuid>a9c019fc-092c-4626-bf5f-961a35af2b27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>70c8b9b9-8684-4d10-b4d6-250d6f3f1386</webElementGuid>
+      <webElementGuid>c807b196-1558-4925-bcfc-c9e94226784d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;flex flex-col justify-center items-center gap-6 h-[calc(100vh-80px)]&quot;]/div[@class=&quot;shadow-box-4 rounded-2xl bg-neutral-10 p-6 w-[720px] max-h-[70vh] flex flex-col overflow-hidden&quot;]/button[@class=&quot;relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 disabled:ring drop-shadow text-neutral-10 dark:text-neutral-10-dark disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark bg-primary-main dark:bg-primary-main-dark hover:bg-primary-hover dark:hover:bg-primary-hover-dark active:bg-primary-pressed dark:active:bg-primary-pressed-dark focus:bg-primary-hover dark:focus:bg-primary-hover-dark focus:ring-primary-focus dark:focus:ring-primary-focus-dark mt-4&quot;]/span[@class=&quot;flex justify-center items-center gap-1.5&quot;]</value>
-      <webElementGuid>fe1fac23-b62d-4e1f-bdf7-ba7d31bfc0d9</webElementGuid>
+      <webElementGuid>a75c0445-61a4-49a9-b283-6f56aa96dca4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/button/span</value>
-      <webElementGuid>718f2803-de18-4c6c-9574-298d8216ea60</webElementGuid>
+      <webElementGuid>ded15461-1be2-40de-9cae-8040eabb8846</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select server to continue'])[1]/following::span[3]</value>
-      <webElementGuid>a272f397-86e2-406e-adca-3b56a3f269c3</webElementGuid>
+      <webElementGuid>41f54cf9-3ffa-407c-8966-b8fcf79f3f24</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
-      <webElementGuid>3ba2b8da-04f9-4d79-b07d-d67955997d0a</webElementGuid>
+      <webElementGuid>936f404d-460a-4b25-bb83-b57793aea275</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/button/span</value>
-      <webElementGuid>4ecd6187-5761-4c93-bb6e-ffc9eb01bc4e</webElementGuid>
+      <webElementGuid>0a316776-8798-4e63-9d3a-df53008a75df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
-      <webElementGuid>e3fc48bc-6f95-445e-91f3-3421f481ffac</webElementGuid>
+      <webElementGuid>e2947b9a-9bc9-492a-b4ea-29cb1a794258</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

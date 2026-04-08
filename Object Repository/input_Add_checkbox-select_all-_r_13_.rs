@@ -6,12 +6,12 @@
    <elementGuidId>81465777-699d-465c-8a80-25181c7e4a2f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#checkbox-select_all-_r_13_</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='checkbox-select_all-_r_13_']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#checkbox-select_all-_r_13_</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>52d07704-7a95-42e4-96d9-a92c5ff64344</webElementGuid>
+      <webElementGuid>c1fa3854-fe9f-4258-b24b-b842f1a7022e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>checkbox-select_all-_r_13_</value>
-      <webElementGuid>bf3a34cc-ea6f-4444-b5cf-70713229d75f</webElementGuid>
+      <webElementGuid>200f44f2-dc75-4c49-8504-971feabd124c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>6e87711c-f5aa-468f-a90e-5a8e4e4a8c5f</webElementGuid>
+      <webElementGuid>f8259f46-e280-4e12-ba91-cf560fd3a478</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>absolute opacity-0 w-5 h-5</value>
-      <webElementGuid>d76aa979-bf0e-4584-a314-dcd4ba85f56f</webElementGuid>
+      <webElementGuid>3edf7c52-cdad-4706-93fe-f757f38d7c53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>select_all</value>
-      <webElementGuid>06811507-0d56-4ce0-b67b-a32672322ee0</webElementGuid>
+      <webElementGuid>1f107cd6-5985-4652-a26b-7cb42444a9e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>308e641c-a60a-4c6c-8c5b-d3a027145675</webElementGuid>
+      <webElementGuid>ed9ff3c9-3d37-492e-ad6f-39d94d3f3704</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkbox-select_all-_r_13_&quot;)</value>
-      <webElementGuid>a084f46b-a08e-43dc-8ddb-57209c695663</webElementGuid>
+      <webElementGuid>b0d5335b-dc43-439e-b057-102599f96b65</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='checkbox-select_all-_r_13_']</value>
-      <webElementGuid>ba8f3283-9985-484d-8af8-1efc2deed0f4</webElementGuid>
+      <webElementGuid>a2ee6da0-e7fb-4237-9aed-ee6e8d483580</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='select_all']/label/div/input</value>
-      <webElementGuid>35dcd32b-ac3b-43b0-875c-df4e9c63af7a</webElementGuid>
+      <webElementGuid>3653510f-8006-4e83-a2b0-5bd8a5ca033a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label/div/input</value>
-      <webElementGuid>106c90b6-2cc1-4f18-9844-b975dcd0a34f</webElementGuid>
+      <webElementGuid>fd868c28-99eb-499a-8161-3e93fea4f1bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'checkbox-select_all-_r_13_' and @type = 'checkbox']</value>
-      <webElementGuid>786e25e7-9062-4410-87ca-5931fa3e13bb</webElementGuid>
+      <webElementGuid>528ec5d3-e49e-4fbe-9ed6-b1820994dc30</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

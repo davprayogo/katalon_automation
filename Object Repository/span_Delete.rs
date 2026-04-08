@@ -6,12 +6,12 @@
    <elementGuidId>4d839c11-2d5e-4da2-8117-d4a5c9b6bea2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f3d49e63-d688-403c-af58-20602216ad17</webElementGuid>
+      <webElementGuid>a3dd6231-aefa-4d60-982d-dcc3d48b7aa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex justify-center items-center gap-1.5</value>
-      <webElementGuid>a8a91513-77ed-47d0-8482-0580fb995874</webElementGuid>
+      <webElementGuid>d77dc449-a219-48e0-a6e4-30371e9e458f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Delete</value>
-      <webElementGuid>85f8877e-de38-443c-b176-726d4aadb6b8</webElementGuid>
+      <webElementGuid>adc56af9-7e96-4ca1-994c-922605f39408</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;flex items-center justify-center z-[1300] inset-0 fixed&quot;]/div[@class=&quot;border border-neutral-40 dark:border-neutral-50-dark rounded-md drop-shadow-sm bg-neutral-10 dark:bg-neutral-10-dark m-8 flex flex-col max-h-[90vh]&quot;]/div[@class=&quot;px-6 py-3 bg-neutral-20 dark:bg-neutral-30-dark flex justify-end items-center gap-3 rounded-b-md&quot;]/button[@class=&quot;relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 disabled:ring drop-shadow text-neutral-10 dark:text-neutral-10-dark disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark bg-danger-main dark:bg-danger-main-dark hover:bg-danger-hover dark:hover:bg-danger-hover-dark active:bg-danger-pressed dark:active:bg-danger-pressed-dark focus:bg-danger-hover dark:focus:bg-danger-hover-dark focus:ring-primary-focus dark:focus:ring-danger-focus-dark&quot;]/span[@class=&quot;flex justify-center items-center gap-1.5&quot;]</value>
-      <webElementGuid>f355ca2a-5e8f-4c87-a9cc-0d8a5ba93102</webElementGuid>
+      <webElementGuid>e3aaf7ce-e19a-42ff-abe5-7e6cc426d0d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::span[1]</value>
-      <webElementGuid>ce5a9ad5-ca0d-4690-8cd2-c051c53ef35c</webElementGuid>
+      <webElementGuid>572ac2d3-9a4e-4c93-9cb7-eed3d7795419</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='This action cannot be undone.'])[1]/following::span[2]</value>
-      <webElementGuid>8e330593-f360-4933-8771-579a832034fd</webElementGuid>
+      <webElementGuid>189c6a31-61f9-4bae-88f8-040972b84071</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button[2]/span</value>
-      <webElementGuid>a7610279-ee9f-49cf-9705-7eff578347da</webElementGuid>
+      <webElementGuid>abd77aa0-4ead-4a7b-9afb-bfc80c410492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>4d0337a7-9129-4b61-ba37-7e08b3963ba0</webElementGuid>
+      <webElementGuid>9b237e96-c3b6-4e68-a476-5204e821d30c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

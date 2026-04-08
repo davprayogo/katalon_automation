@@ -6,12 +6,12 @@
    <elementGuidId>dd9216c7-d621-4f79-a06e-b6085489305c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#kc-login</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='kc-login']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kc-login</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4a5a4a1c-9486-466d-8176-9a95adba97fe</webElementGuid>
+      <webElementGuid>07ab2cef-a026-454e-94c9-ec42be126ebf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pf-v5-c-button pf-m-primary pf-m-block </value>
-      <webElementGuid>e5068014-39c6-470d-90ce-2002f011c21b</webElementGuid>
+      <webElementGuid>1b8b3a03-d323-46f3-9eb2-205fa5a5b4b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>login</value>
-      <webElementGuid>9c3723bb-5a19-499a-bff9-b302e175ecbf</webElementGuid>
+      <webElementGuid>244c6a26-d497-4070-96e6-c5e6e1a5667b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>kc-login</value>
-      <webElementGuid>ce5e05e1-98d1-43dd-ab35-85c9787b536e</webElementGuid>
+      <webElementGuid>3ca0cf9f-16e4-4f25-acfc-e5d4c1a220e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>f45f2cbb-e140-4592-80da-81cf1df8ab1f</webElementGuid>
+      <webElementGuid>486217a1-c74a-468f-bd0d-d794b0933f1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <value>
   Sign In
   </value>
-      <webElementGuid>0891b35c-f6f9-4711-bf57-ed2627674b93</webElementGuid>
+      <webElementGuid>5f02238c-db76-4bb6-8f62-fd8790a7429a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kc-login&quot;)</value>
-      <webElementGuid>96b9349d-1ce4-47b3-9558-327c523221c8</webElementGuid>
+      <webElementGuid>d320d7a9-1a85-46a6-ba02-c19ad1372ec1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='kc-login']</value>
-      <webElementGuid>c1ada2fa-8722-41da-9382-eb9eb19e02e3</webElementGuid>
+      <webElementGuid>6c452726-cbbc-45b7-97eb-07cbd4f9789d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='kc-form-login']/div[3]/div/button</value>
-      <webElementGuid>92b0efe7-d47a-4e2a-acd4-082508f67f59</webElementGuid>
+      <webElementGuid>2ca12b9c-f8ec-409c-8f3b-1fde57fdb5a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::button[1]</value>
-      <webElementGuid>c55d4def-6aef-435a-a134-f99cb39b7667</webElementGuid>
+      <webElementGuid>8c0e40fd-8398-4e9a-95e0-6fb92a90b660</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[2]</value>
-      <webElementGuid>c69862f0-30e7-4149-a6d8-47c6bcde942b</webElementGuid>
+      <webElementGuid>66bd16c4-c1fa-431a-afbc-5acddfb270e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::button[1]</value>
-      <webElementGuid>904c0c0c-7b97-4dbe-b3e6-c30f185d7b4c</webElementGuid>
+      <webElementGuid>e0399c1d-fb55-4e0b-a630-7938abb4e912</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>f1059829-72c2-4bc3-8a34-29d07f73fefd</webElementGuid>
+      <webElementGuid>95426072-24e3-47e1-a6f9-1de6b9928c4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/button</value>
-      <webElementGuid>f5ae1caa-4f53-4097-82ba-281355becc71</webElementGuid>
+      <webElementGuid>dd2b99f3-5e65-4426-a7c5-077bb228b81c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
   ' or . = '
   Sign In
   ')]</value>
-      <webElementGuid>3c9e04f7-92f8-4ae8-bbaf-76af103f6f86</webElementGuid>
+      <webElementGuid>e9d6ae88-fe51-4c64-8ca8-1d5d23f20464</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

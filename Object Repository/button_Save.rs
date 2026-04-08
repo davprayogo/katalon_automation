@@ -6,12 +6,12 @@
    <elementGuidId>de10269e-5226-44be-afea-8357d7b799bf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#btn-detail-save</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='btn-detail-save']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn-detail-save</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6ccab906-9db3-4d91-a645-8ac1e60879f9</webElementGuid>
+      <webElementGuid>424dcc59-0e12-4a51-8c37-a05f213d7875</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-detail-save</value>
-      <webElementGuid>5999608d-e243-4759-bf08-766562ca2ea3</webElementGuid>
+      <webElementGuid>a6a02af3-4c69-4915-bfb6-f9194031fe03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5cd33788-8419-4bea-bb14-d6b5d41f8fff</webElementGuid>
+      <webElementGuid>734e52b4-4fe6-4cc4-ba75-5c0330495d8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 disabled:ring drop-shadow text-neutral-10 dark:text-neutral-10-dark disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark bg-primary-main dark:bg-primary-main-dark hover:bg-primary-hover dark:hover:bg-primary-hover-dark active:bg-primary-pressed dark:active:bg-primary-pressed-dark focus:bg-primary-hover dark:focus:bg-primary-hover-dark focus:ring-primary-focus dark:focus:ring-primary-focus-dark</value>
-      <webElementGuid>cae8a894-9b36-4c51-bd15-b3eef277fdaa</webElementGuid>
+      <webElementGuid>5a24ba57-a5b0-4b88-920a-034b6763acd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e51e6565-c8f5-4e23-a095-874493bbb410</webElementGuid>
+      <webElementGuid>cfcc0d40-6af9-4143-81ec-33d13e923d29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>f321262c-531a-455a-aaa3-e07a54c08793</webElementGuid>
+      <webElementGuid>8d90da25-a46e-4ee0-aa4f-d10f62790b37</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-detail-save&quot;)</value>
-      <webElementGuid>257d6034-5eba-4ebc-8ad4-3da5faeca091</webElementGuid>
+      <webElementGuid>00730221-70fa-450b-8c8a-60e53979fe70</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn-detail-save']</value>
-      <webElementGuid>f7341a35-c445-4566-b494-9334f66c221c</webElementGuid>
+      <webElementGuid>3a6b9282-e559-4c22-b940-66b1027c316b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div[2]/div/div[2]/div/button</value>
-      <webElementGuid>be5bdaf2-2bfb-4879-99f6-1ea55ec85147</webElementGuid>
+      <webElementGuid>cf1ac49c-3224-4688-80f4-cc76f4284431</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::button[1]</value>
-      <webElementGuid>2ddf76c9-1771-4285-9786-20ffbd2a4d43</webElementGuid>
+      <webElementGuid>be423a18-5f30-46cc-aa8a-7096a0f92da1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[3]/following::button[1]</value>
-      <webElementGuid>a2086288-09f0-43b3-8a30-30f6a60be650</webElementGuid>
+      <webElementGuid>d5783cc7-85ab-45c7-ba57-9948d8c40cd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Information'])[1]/preceding::button[1]</value>
-      <webElementGuid>4c079afc-3cae-4c2f-b7fe-dde335647003</webElementGuid>
+      <webElementGuid>4741c8a1-5ab1-4d7b-9800-f8fa2829e27f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>b74a4462-c694-49e4-bbad-09b0e2066e6f</webElementGuid>
+      <webElementGuid>57aa8ff2-316a-47cb-a446-6ca166a58943</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'btn-detail-save' and @type = 'button' and (text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>e6ddd464-678c-4cdf-93f0-a2a9ebe4a23d</webElementGuid>
+      <webElementGuid>d1c2f1a4-bdbf-422e-8bee-f02418e525cd</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

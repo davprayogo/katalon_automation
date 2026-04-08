@@ -6,12 +6,12 @@
    <elementGuidId>35a92ede-ec89-4cea-9004-dd27b57cab54</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>button.flex.items-center.justify-between.gap-3.border.rounded-lg.px-4.py-3.text-left.transition-colors.bg-neutral-10.border-neutral-30</value>
+         <key>XPATH</key>
+         <value>//button[@id='module-menu']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <key>CSS</key>
+         <value>#module-menu</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8bf3ffa4-804a-4946-b77d-83cd40e018c9</webElementGuid>
+      <webElementGuid>0b140a63-7e45-441a-8fa3-d354a596ecb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dff3a352-fa67-4ebc-ab51-7093bfb8b49b</webElementGuid>
+      <webElementGuid>4adf6c44-5324-4337-9a33-f6fd26514d88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +39,15 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>dev1</value>
-      <webElementGuid>88722c8d-83d5-44c2-bee1-f08c9bd79066</webElementGuid>
+      <webElementGuid>0876b41a-6789-433f-8229-d58c5dd4d5ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>flex items-center justify-between gap-3 border rounded-lg px-4 py-3 text-left transition-colors bg-neutral-10 border-neutral-30</value>
-      <webElementGuid>3ac82346-badd-4fcd-ae58-4b03dde9a8ae</webElementGuid>
+      <value>flex items-center justify-center w-8 h-8 hover:bg-neutral-20 rounded-md</value>
+      <webElementGuid>b6bf0396-07bc-4806-9d0b-43a599223443</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,16 +69,16 @@
           @keyframes ping {
             75%, 100% { transform: scale(2); opacity: 0; }
           }
-        dev1</value>
-      <webElementGuid>dbd2eb00-9c49-44e2-8fef-eaadf9239f18</webElementGuid>
+        </value>
+      <webElementGuid>00149c61-a63f-4a5e-ac1b-eb7bf5c29bb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;flex flex-col justify-center items-center gap-6 h-[calc(100vh-80px)]&quot;]/div[@class=&quot;shadow-box-4 rounded-2xl bg-neutral-10 p-6 w-[720px] max-h-[70vh] flex flex-col overflow-hidden&quot;]/div[@class=&quot;flex flex-col gap-3 w-full overflow-y-auto pr-1&quot;]/button[@class=&quot;flex items-center justify-between gap-3 border rounded-lg px-4 py-3 text-left transition-colors bg-neutral-10 border-neutral-30&quot;]</value>
-      <webElementGuid>ef9d9117-71cd-4938-a2ef-be7c05297c9b</webElementGuid>
+      <value>id(&quot;module-menu&quot;)</value>
+      <webElementGuid>018b93c9-a76d-4780-9a3f-a5e239ee57c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,15 +86,15 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e2d5bd9d-3282-46fa-be51-8fcc782f6876</webElementGuid>
+      <webElementGuid>387ac491-0563-4f32-833d-aec50b028e61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>mg-btn-add-user</value>
-      <webElementGuid>bb8921ae-28de-4d61-88f4-c94e667b9e78</webElementGuid>
+      <value>module-menu</value>
+      <webElementGuid>71700614-bfb4-448d-9147-a0c4eeaafce0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Utility</value>
-      <webElementGuid>7713f034-7d6a-413a-9dbb-9544ea14b64c</webElementGuid>
+      <webElementGuid>8a7c6a3e-adc0-427f-95ab-ade0f6067378</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1907336a-cf06-40ce-bf76-8d5ca7df40f4</webElementGuid>
+      <webElementGuid>fb080f2c-815c-4eb7-9be1-298e522cb7a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>dialog</value>
-      <webElementGuid>dea7c550-de94-45e2-b30f-c0425419aeec</webElementGuid>
+      <webElementGuid>806f6876-487e-47a3-bbf5-ce5f204af69e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,15 +126,93 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c97e2736-bcb2-4f6e-9b07-169c538f2597</webElementGuid>
+      <webElementGuid>6815b723-559a-4ec6-8348-e8053af9d077</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
+      <value>//button[@id='module-menu']</value>
+      <webElementGuid>af5dc28b-0621-4ad7-b069-e5339320b583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/button</value>
+      <webElementGuid>d902424a-5fb7-4bf7-9b58-272102bf77f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/preceding::button[3]</value>
+      <webElementGuid>cd74b06b-4b26-42e5-b468-2d4ac8c33ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utility'])[1]/preceding::button[3]</value>
+      <webElementGuid>021a9359-d8fc-4750-8685-cceb02b1deee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>64402fef-cd5b-4ec8-8fed-248c6af8529f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'module-menu' and @title = 'Utility' and (text() = '
+          @keyframes spin {
+            to { transform: rotate(360deg); }
+          }
+          @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+          }
+          @keyframes bounce {
+            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
+            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
+          }
+          @keyframes ping {
+            75%, 100% { transform: scale(2); opacity: 0; }
+          }
+        ' or . = '
+          @keyframes spin {
+            to { transform: rotate(360deg); }
+          }
+          @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+          }
+          @keyframes bounce {
+            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
+            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
+          }
+          @keyframes ping {
+            75%, 100% { transform: scale(2); opacity: 0; }
+          }
+        ')]</value>
+      <webElementGuid>a2deaf79-2ee1-49fc-8fc7-e3f80e31138b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
       <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>aff112f5-95da-4f98-a57d-9c92177811ff</webElementGuid>
+      <webElementGuid>fc73318b-930f-4e7f-8b87-00113e33d208</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +220,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div/button</value>
-      <webElementGuid>e21d544f-7ef6-4fde-9c30-df313a588803</webElementGuid>
+      <webElementGuid>54bb556a-b3c7-478a-8b76-c0834a5dc88d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +228,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select server to continue'])[1]/following::button[1]</value>
-      <webElementGuid>b50c867e-c374-4e43-92ed-c001eb723fe9</webElementGuid>
+      <webElementGuid>61505e8f-2b35-4659-b833-fcb67f3f7b9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +236,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::button[2]</value>
-      <webElementGuid>d801284f-77d4-472c-8570-5488ffc63d65</webElementGuid>
+      <webElementGuid>3b7f18be-4c55-41b1-ac89-a23a6637d613</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +244,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/button</value>
-      <webElementGuid>f1a57204-d800-4a00-9f66-2a10634456a2</webElementGuid>
+      <webElementGuid>f7a8b25b-831f-4abc-a511-76c5355c020f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -204,7 +282,249 @@
             75%, 100% { transform: scale(2); opacity: 0; }
           }
         dev1')]</value>
-      <webElementGuid>c54091a3-7fae-4596-b14c-9201e61d41e6</webElementGuid>
+      <webElementGuid>ee417972-7b51-4386-8159-665f015b7d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn-detail-edit']</value>
+      <webElementGuid>604e91fd-5712-4752-aa59-f70ef8f2daa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>f2176816-53ee-4593-814e-ab2c120a6f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set Access Multipe Menus (Test)'])[1]/following::button[1]</value>
+      <webElementGuid>34c0a56f-2534-40b8-9174-eedab2c86738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[3]/following::button[1]</value>
+      <webElementGuid>4e8eead8-da39-447c-8cfa-4d52c0c7e90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Information'])[1]/preceding::button[4]</value>
+      <webElementGuid>c449b3f8-e289-42f8-9e47-9dee729e2dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>0246be0b-9514-4b4e-b1d1-7035a600a4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btn-detail-edit' and @type = 'button' and (text() = '
+          @keyframes spin {
+            to { transform: rotate(360deg); }
+          }
+          @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+          }
+          @keyframes bounce {
+            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
+            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
+          }
+          @keyframes ping {
+            75%, 100% { transform: scale(2); opacity: 0; }
+          }
+        Edit' or . = '
+          @keyframes spin {
+            to { transform: rotate(360deg); }
+          }
+          @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+          }
+          @keyframes bounce {
+            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
+            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
+          }
+          @keyframes ping {
+            75%, 100% { transform: scale(2); opacity: 0; }
+          }
+        Edit')]</value>
+      <webElementGuid>7c863e56-ae65-4d99-b00b-34f0e3226468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='mg-btn-add-access-right']</value>
+      <webElementGuid>b12a48ab-fe6a-4317-9593-97dbd6215ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabpanel-accessRight']/div/button</value>
+      <webElementGuid>1edc0291-3531-40c8-9d64-8598203e9d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::button[1]</value>
+      <webElementGuid>dad3da23-4431-4ad5-aa84-6c009518d8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Record Rules'])[1]/following::button[2]</value>
+      <webElementGuid>c91d3643-ffc6-47ae-a606-36a7173ced87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>9eb61366-976c-4342-97f6-22af7bde055b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'mg-btn-add-access-right' and @type = 'button' and (text() = '
+          @keyframes spin {
+            to { transform: rotate(360deg); }
+          }
+          @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+          }
+          @keyframes bounce {
+            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
+            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
+          }
+          @keyframes ping {
+            75%, 100% { transform: scale(2); opacity: 0; }
+          }
+        Add' or . = '
+          @keyframes spin {
+            to { transform: rotate(360deg); }
+          }
+          @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+          }
+          @keyframes bounce {
+            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
+            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
+          }
+          @keyframes ping {
+            75%, 100% { transform: scale(2); opacity: 0; }
+          }
+        Add')]</value>
+      <webElementGuid>b7bfda75-6634-481e-933c-5702b35ba619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>338953d6-e05c-42d1-9273-27fa1641ae72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='button-create']/button</value>
+      <webElementGuid>3b691d70-3f6a-4208-81be-12b708b05029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Groups'])[1]/following::button[1]</value>
+      <webElementGuid>1eabd638-5195-4afd-b1b1-97eca9001bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::button[1]</value>
+      <webElementGuid>79fc9279-5240-40b7-bcd6-6fbf109e19f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>c7c793aa-3e7f-431a-9356-c21ecb4baa7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+          @keyframes spin {
+            to { transform: rotate(360deg); }
+          }
+          @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+          }
+          @keyframes bounce {
+            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
+            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
+          }
+          @keyframes ping {
+            75%, 100% { transform: scale(2); opacity: 0; }
+          }
+        Create Group' or . = '
+          @keyframes spin {
+            to { transform: rotate(360deg); }
+          }
+          @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+          }
+          @keyframes bounce {
+            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
+            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
+          }
+          @keyframes ping {
+            75%, 100% { transform: scale(2); opacity: 0; }
+          }
+        Create Group')]</value>
+      <webElementGuid>5b8e7dd6-a37b-4e1c-9358-6216de15bd20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -221,30 +541,6 @@
       <type>Main</type>
       <value>//div[@id='tabpanel-user']/div/button</value>
       <webElementGuid>46944ec2-d869-44f9-ae46-9c7166705103</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/following::button[1]</value>
-      <webElementGuid>3bfb72a2-60e0-497d-a6f5-5a4db951e233</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Record Rules'])[1]/following::button[2]</value>
-      <webElementGuid>8c0a1a2f-bc24-491a-9381-d3be015474b3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div[2]/div[2]/div/div[2]/div/button</value>
-      <webElementGuid>c2aba775-31ff-4630-bb36-15332148d4db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -283,162 +579,6 @@
           }
         Add')]</value>
       <webElementGuid>e9acccb1-b47b-499e-a98a-95a86553a73c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//button[@id='module-menu']</value>
-      <webElementGuid>233b469c-54a9-4ed4-85d7-d3db32c8db1d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='root']/div/div/div/button</value>
-      <webElementGuid>84b54e05-b40f-4d75-93dc-a2b9175d9bfb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/preceding::button[3]</value>
-      <webElementGuid>de3f8d46-8eaf-4cbe-95f2-28fa474421e7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utility'])[1]/preceding::button[3]</value>
-      <webElementGuid>b5b39e1c-8121-47fd-966a-8ff17746a26a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>e9e42f21-8c4d-4ba8-97d3-6f5030afdf70</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'module-menu' and @title = 'Utility' and (text() = '
-          @keyframes spin {
-            to { transform: rotate(360deg); }
-          }
-          @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: .5; }
-          }
-          @keyframes bounce {
-            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
-            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
-          }
-          @keyframes ping {
-            75%, 100% { transform: scale(2); opacity: 0; }
-          }
-        ' or . = '
-          @keyframes spin {
-            to { transform: rotate(360deg); }
-          }
-          @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: .5; }
-          }
-          @keyframes bounce {
-            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
-            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
-          }
-          @keyframes ping {
-            75%, 100% { transform: scale(2); opacity: 0; }
-          }
-        ')]</value>
-      <webElementGuid>555913f9-1887-4a67-b3ba-88a95e10131c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>fa472ca9-2bfe-4a21-bae5-06b3ce2ab434</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//a[@id='button-create']/button</value>
-      <webElementGuid>a019870f-e83c-4331-8a90-125d8f08bc64</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master Groups'])[1]/following::button[1]</value>
-      <webElementGuid>cce72bd1-1ea5-489b-8098-0b4a9e7ad8eb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::button[1]</value>
-      <webElementGuid>58a36ec7-776c-45fd-bdce-75317278de8a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//a/button</value>
-      <webElementGuid>47da7135-6f50-4133-bf8d-8b8415969faf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = '
-          @keyframes spin {
-            to { transform: rotate(360deg); }
-          }
-          @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: .5; }
-          }
-          @keyframes bounce {
-            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
-            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
-          }
-          @keyframes ping {
-            75%, 100% { transform: scale(2); opacity: 0; }
-          }
-        Create Group' or . = '
-          @keyframes spin {
-            to { transform: rotate(360deg); }
-          }
-          @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: .5; }
-          }
-          @keyframes bounce {
-            0%, 100% { transform: translateY(-25%); animation-timing-function: cubic-bezier(0.8,0,1,1); }
-            50% { transform: none; animation-timing-function: cubic-bezier(0,0,0.2,1); }
-          }
-          @keyframes ping {
-            75%, 100% { transform: scale(2); opacity: 0; }
-          }
-        Create Group')]</value>
-      <webElementGuid>17a594e0-b380-4bb2-9b15-ef35d6a881e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

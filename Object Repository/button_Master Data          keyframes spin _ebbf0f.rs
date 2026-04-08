@@ -6,12 +6,12 @@
    <elementGuidId>bb157934-4b1f-4794-a0f8-9bb478c96326</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[24]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>aed53a18-9ff3-4526-8062-f651a1a8ea95</webElementGuid>
+      <webElementGuid>b228ad4e-4a8d-4d9c-aec1-0b0e14ed4a9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6c4dabd5-fe0e-4d52-9b36-3013a261a6c5</webElementGuid>
+      <webElementGuid>8c694a74-b2cc-4914-97b0-9fc58b6d024a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 bg-neutral-40</value>
-      <webElementGuid>617f78a8-aeb6-46f8-9971-8e9f9ce1f37d</webElementGuid>
+      <webElementGuid>1c14958b-d200-4246-88dd-e01716426b0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
             75%, 100% { transform: scale(2); opacity: 0; }
           }
         </value>
-      <webElementGuid>3fc6c2b6-03e5-432e-b1e4-5cc6091b4685</webElementGuid>
+      <webElementGuid>65dbf496-7c89-4cd4-b5c8-233a4b76e8c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;absolute z-[1300]&quot;]/div[@class=&quot;bg-neutral-10 dark:bg-neutral-30-dark shadow-box-2 rounded-lg overflow-hidden&quot;]/div[1]/div[@class=&quot;flex justify-start py-3&quot;]/div[@class=&quot;px-3 border-r border-neutral-30 min-w-[204px] min-h-96&quot;]/button[@class=&quot;w-full py-1.5 px-4 rounded-md flex items-center justify-between gap-2.5 bg-neutral-40&quot;]</value>
-      <webElementGuid>80372af1-b35b-4397-a7ae-9802eb4637c7</webElementGuid>
+      <webElementGuid>0cb79d9f-77b2-4f30-a3dc-165282b373fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[24]</value>
-      <webElementGuid>b985a128-8434-4947-8a5b-7c2f00c8d0c6</webElementGuid>
+      <webElementGuid>8b65ef1d-b9b3-4b29-be06-db131202c7e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[1]</value>
-      <webElementGuid>4f5326d7-4fdb-43e1-bda3-bd299f4799ad</webElementGuid>
+      <webElementGuid>78fd1946-7f1d-4c1f-9672-1de3917cd3f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prev'])[1]/following::button[5]</value>
-      <webElementGuid>29e3d230-6b04-4cfd-99cd-278cb23afad1</webElementGuid>
+      <webElementGuid>cc0bfa9e-b24c-4d23-9f51-fdfccfd1503c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/button</value>
-      <webElementGuid>c830a729-55f7-4423-a035-7cf2e7bfc448</webElementGuid>
+      <webElementGuid>22a7699d-8914-427d-be43-a597ae24cd13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -140,6 +140,6 @@
             75%, 100% { transform: scale(2); opacity: 0; }
           }
         ')]</value>
-      <webElementGuid>e5b802ba-3443-4d26-aab8-925a470ea730</webElementGuid>
+      <webElementGuid>80c7b632-d8c3-480b-93cb-42c38dccac1d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

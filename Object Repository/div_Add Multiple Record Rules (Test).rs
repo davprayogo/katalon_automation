@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add Multiple Record Rules (Test)</name>
+   <tag></tag>
+   <elementGuidId>5321b8cf-94e3-42cc-a18d-1c79dea88bea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-table']/div[3]/div/table/tbody/tr/td[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.line-clamp-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5922fef1-b2e7-49fa-9198-364a94af0726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line-clamp-3</value>
+      <webElementGuid>7d5e6401-6dab-4d83-8e6c-35feae44002e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Multiple Record Rules (Test)</value>
+      <webElementGuid>a2da1250-6098-4729-a6d1-536ee7c66534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-table&quot;)/div[@class=&quot;outline-none cursor-default text-neutral-100 dark:text-neutral-100-dark overflow-x-auto rounded-md ring-3 ring-primary-focus dark:ring-primary-focus-dark !border-primary-main dark:!border-primary-main-dark&quot;]/div[@class=&quot;overflow-y-auto border border-neutral-30 dark:border-neutral-30-dark rounded-md mb-4&quot;]/table[@class=&quot;w-full border-collapse table-auto&quot;]/tbody[1]/tr[@class=&quot;group border-b border-neutral-30 last:border-none text-14px hover:bg-neutral-20 dark:hover:bg-neutral-20-dark bg-neutral-10 dark:bg-neutral-10-dark even:bg-neutral-15 dark:even:bg-neutral-15-dark cursor-pointer&quot;]/td[@class=&quot;py-1.6 text-center break-words&quot;]/div[@class=&quot;px-4 py-3 text-left&quot;]/div[@class=&quot;line-clamp-3&quot;]</value>
+      <webElementGuid>4ec6957b-8496-4d9e-9063-4672ba2ad53e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-table']/div[3]/div/table/tbody/tr/td[2]/div/div</value>
+      <webElementGuid>b38eb4da-df3f-42f6-9de7-de48a97f4b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[5]</value>
+      <webElementGuid>a797c0fa-3233-4d0c-88a2-05c761afec2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Module'])[1]/following::div[8]</value>
+      <webElementGuid>292f2039-2819-4946-81b1-bd8ba4eb268a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::div[1]</value>
+      <webElementGuid>fa83d61f-711b-4048-87c8-edf150206ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::div[3]</value>
+      <webElementGuid>b0d0eb6a-b5f1-4fbb-aecd-4d29a833aa78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Multiple Record Rules (Test)']/parent::*</value>
+      <webElementGuid>efabb032-0392-41d0-b59a-884d9e80b8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div</value>
+      <webElementGuid>ff95c98d-9a00-4ad1-96b4-6a86ef14bfa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add Multiple Record Rules (Test)' or . = 'Add Multiple Record Rules (Test)')]</value>
+      <webElementGuid>6ead3114-cec1-4ea8-8442-33ab0e4af45c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
