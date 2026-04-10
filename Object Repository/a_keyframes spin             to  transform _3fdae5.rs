@@ -6,12 +6,12 @@
    <elementGuidId>934977ca-64b0-491e-9004-6d120e8fa5d6</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div/div[2]/div/div/a[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/a[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>adb4412d-e338-4fb7-bb37-2867eba1f0be</webElementGuid>
+      <webElementGuid>a0aafb8d-d557-43c3-8ed8-40bc9c68b5fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>border border-neutral-30 hover:border-primary-main rounded-lg p-6</value>
-      <webElementGuid>a1a90230-a71d-47b6-80dd-b7712a3ca32e</webElementGuid>
+      <webElementGuid>d37d94e7-150d-4c93-8f86-975a34c2d82a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/utility</value>
-      <webElementGuid>977c6a75-6e5b-497d-bcb6-836a82feeb8f</webElementGuid>
+      <webElementGuid>69f74a50-6ef9-4176-a0bb-3223fb29b130</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>data-discover</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e40e85e7-f092-4da3-91ca-83281f5051e9</webElementGuid>
+      <webElementGuid>abd3e115-4d8e-46e0-9490-d182bac3f018</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,15 +85,15 @@
             75%, 100% { transform: scale(2); opacity: 0; }
           }
         UTILITYUtilityModify your settings for a tailored experience. Explore the settings menu for all your options.</value>
-      <webElementGuid>f5600bb0-41f5-46f0-9814-15d091edf5c6</webElementGuid>
+      <webElementGuid>5c0c474e-6c19-4860-8b61-5e0fe834bd46</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[@class=&quot;p-8&quot;]/div[@class=&quot;w-full max-w-7xl mx-auto p-6 shadow-box-4 rounded-2xl bg-neutral-10&quot;]/div[@class=&quot;grid grid-cols-3 gap-5&quot;]/a[@class=&quot;border border-neutral-30 hover:border-primary-main rounded-lg p-6&quot;]</value>
-      <webElementGuid>62f0468b-38ea-4c11-a9e7-a5f9030470d0</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15&quot;]/div[@class=&quot;p-8&quot;]/div[@class=&quot;w-full max-w-7xl mx-auto p-6 shadow-box-4 rounded-2xl bg-neutral-10&quot;]/div[@class=&quot;grid grid-cols-3 gap-5&quot;]/a[@class=&quot;border border-neutral-30 hover:border-primary-main rounded-lg p-6&quot;]</value>
+      <webElementGuid>9d4d0ce5-2c64-47c6-8ef0-0345b032fd96</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/a[2]</value>
-      <webElementGuid>3b4a79ed-4a38-4953-ac3e-3c7843bd72fa</webElementGuid>
+      <webElementGuid>7a209d66-1cca-4965-b02e-bdf82334d8d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MES'])[1]/following::a[1]</value>
-      <webElementGuid>2730a8f6-e4bf-49a8-9999-9ffe83a4fcbc</webElementGuid>
+      <webElementGuid>ae180498-f12c-4e6a-ad58-526ee086fba9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All Modules'])[1]/following::a[2]</value>
-      <webElementGuid>3dc92245-75e6-4477-86e8-e41be86e545d</webElementGuid>
+      <webElementGuid>0d201958-37a3-4889-b3c2-8b3558bf1c87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/utility')]</value>
-      <webElementGuid>b9c4fef8-fbbb-4502-b556-0b94d961fe21</webElementGuid>
+      <webElementGuid>25377ba8-0690-49ff-a504-6ad195a9481e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]</value>
-      <webElementGuid>5b726ab5-2fca-4b65-952a-30062399eb23</webElementGuid>
+      <webElementGuid>2756fb7f-950c-4168-a1e8-545b5c0b260f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -201,6 +201,6 @@
             75%, 100% { transform: scale(2); opacity: 0; }
           }
         UTILITYUtilityModify your settings for a tailored experience. Explore the settings menu for all your options.')]</value>
-      <webElementGuid>ce74082f-8c61-4c8b-a288-0cd937dab2ca</webElementGuid>
+      <webElementGuid>c190039f-96c1-4c92-936a-aa9e77566d86</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

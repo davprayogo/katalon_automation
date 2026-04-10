@@ -6,12 +6,12 @@
    <elementGuidId>5659cfed-35c5-47e8-8fe4-28f8d1cc1558</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/div[2]/div[2]/div[2]/div/div/button[3]/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/div[2]/div[2]/div/div/button[3]/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8dd06d99-4fb5-4a9a-9479-15781ddf99c4</webElementGuid>
+      <webElementGuid>5b3c30ec-cf27-49a3-b389-e25aaf20e157</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full</value>
-      <webElementGuid>b6e60430-8bcf-4081-b43b-c2ea7ee87678</webElementGuid>
+      <webElementGuid>d22a6b98-a56b-490b-a4ce-fea88323d433</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,15 +39,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Access Right</value>
-      <webElementGuid>7d8b403f-c11c-4ced-9b18-aad188fa7c6f</webElementGuid>
+      <webElementGuid>4c23ac38-c920-4055-8d1b-0a551cb9c819</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15 pt-20&quot;]/div[2]/div[@class=&quot;px-6 py-4 flex flex-col gap-4&quot;]/div[@class=&quot;bg-neutral-10 rounded-2xl p-4 pt-8 border border-neutral-30 relative&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;relative flex gap-1 border-b border-neutral-30 mb-4&quot;]/button[@class=&quot;relative text-14px font-semibold flex items-center justify-between gap-2 px-4 pb-4 cursor-pointer select-none text-neutral-90 hover:text-primary-hover&quot;]/div[@class=&quot;w-full&quot;]</value>
-      <webElementGuid>49859843-1c71-471d-98a2-82eea48aa4f0</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;relative min-h-screen min-w-screen-lg bg-neutral-15&quot;]/div[2]/div[@class=&quot;px-6 py-4 flex flex-col gap-4&quot;]/div[@class=&quot;bg-neutral-10 rounded-2xl p-4 pt-8 border border-neutral-30 relative&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/div[@class=&quot;relative flex gap-1 border-b border-neutral-30 mb-4&quot;]/button[@class=&quot;relative text-14px font-semibold flex items-center justify-between gap-2 px-4 pb-4 cursor-pointer select-none text-neutral-90 hover:text-primary-hover&quot;]/div[@class=&quot;w-full&quot;]</value>
+      <webElementGuid>cd45cba9-5892-41e4-80d4-c62d9117b7ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div[2]/div[2]/div[2]/div/div/button[3]/div</value>
-      <webElementGuid>784d07f5-ef7b-4403-abb1-c4a149276dc2</webElementGuid>
+      <webElementGuid>82c40a62-6229-4d24-a865-ecbb2e8cdff8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inherited Groups'])[1]/following::div[1]</value>
-      <webElementGuid>99a3d276-f589-431f-bb86-4b0821d89032</webElementGuid>
+      <webElementGuid>9b261351-f715-42a0-af57-468ce67d6d2b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='User'])[1]/following::div[2]</value>
-      <webElementGuid>8d5ad412-cd88-4e7e-8fe9-963ffe17dddf</webElementGuid>
+      <webElementGuid>5988b747-2da8-46f1-b150-e346560ee7b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Record Rules'])[1]/preceding::div[1]</value>
-      <webElementGuid>563a25c9-9db7-485a-8d58-0b2418f61a9c</webElementGuid>
+      <webElementGuid>34a89d37-d91f-4024-b7d5-7875832278e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/preceding::div[2]</value>
-      <webElementGuid>24128131-d775-4ae0-beeb-baabe16c1ee5</webElementGuid>
+      <webElementGuid>0f8c0912-41c9-42d3-86be-0305e4ed9d98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Access Right']/parent::*</value>
-      <webElementGuid>f600958c-1f85-4d65-a299-ab9ac3bbe5ca</webElementGuid>
+      <webElementGuid>ec2e2916-41f1-436c-b2b0-ca693b83a013</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[3]/div</value>
-      <webElementGuid>cf992b0f-fa54-486e-a271-52e5d570d86a</webElementGuid>
+      <webElementGuid>addda1d7-aa9a-429c-9a39-0e6b0141d509</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Access Right' or . = 'Access Right')]</value>
-      <webElementGuid>a7e19e65-347c-4aaf-bfbd-6b56d6b4ba60</webElementGuid>
+      <webElementGuid>e421069c-e9dd-4d87-90f0-9566a801ba10</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

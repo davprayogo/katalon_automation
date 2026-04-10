@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Access Rights</name>
+   <tag></tag>
+   <elementGuidId>559ee479-7e7d-4d1e-93f9-e55c7117f970</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.line-clamp-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='list-table']/div[3]/div/table/tbody/tr/td[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e3107f67-2848-49ee-b397-4a2ee221d129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line-clamp-3</value>
+      <webElementGuid>75b50c5a-a177-441c-9528-b7840b07af37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Access Rights</value>
+      <webElementGuid>5470c117-3ef0-4225-b2f6-f84b42c6e09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list-table&quot;)/div[@class=&quot;outline-none cursor-default text-neutral-100 dark:text-neutral-100-dark overflow-x-auto rounded-md ring-3 ring-primary-focus dark:ring-primary-focus-dark !border-primary-main dark:!border-primary-main-dark&quot;]/div[@class=&quot;overflow-y-auto border border-neutral-30 dark:border-neutral-30-dark rounded-md mb-4&quot;]/table[@class=&quot;w-full border-collapse table-auto&quot;]/tbody[1]/tr[@class=&quot;group border-b border-neutral-30 last:border-none text-14px hover:bg-neutral-20 dark:hover:bg-neutral-20-dark bg-neutral-10 dark:bg-neutral-10-dark even:bg-neutral-15 dark:even:bg-neutral-15-dark cursor-pointer&quot;]/td[@class=&quot;py-1.6 text-center break-words&quot;]/div[@class=&quot;px-4 py-3 text-left&quot;]/div[@class=&quot;line-clamp-3&quot;]</value>
+      <webElementGuid>ac44e80f-f6ac-4391-a559-57015117f461</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='list-table']/div[3]/div/table/tbody/tr/td[2]/div/div</value>
+      <webElementGuid>b368c912-417a-45d6-a754-adab9aa18448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[5]</value>
+      <webElementGuid>964cb4d0-d089-42c4-81a5-9556506eb318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Module'])[1]/following::div[8]</value>
+      <webElementGuid>2361390c-90c0-4aa2-938f-11ee47958a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::div[1]</value>
+      <webElementGuid>3235fa48-242b-4dda-ae14-f60a648ab9fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::div[3]</value>
+      <webElementGuid>4e061b7a-983f-4b89-8ace-02abbad4a9fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Access Rights']/parent::*</value>
+      <webElementGuid>db16c982-e46c-4dca-91ce-b2be7308472a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div</value>
+      <webElementGuid>c36ca982-d47b-4d84-b1d4-2bfe6dace6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Access Rights' or . = 'Access Rights')]</value>
+      <webElementGuid>5282f1a8-4415-4914-87eb-f80aa7d33766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

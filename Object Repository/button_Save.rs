@@ -6,12 +6,12 @@
    <elementGuidId>de10269e-5226-44be-afea-8357d7b799bf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='btn-detail-save']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#btn-detail-save</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn-detail-save']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>424dcc59-0e12-4a51-8c37-a05f213d7875</webElementGuid>
+      <webElementGuid>2d46de78-a606-446e-8a2b-8da77287144d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-detail-save</value>
-      <webElementGuid>a6a02af3-4c69-4915-bfb6-f9194031fe03</webElementGuid>
+      <webElementGuid>2392320f-965b-4b08-bb94-17e28833c11c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>734e52b4-4fe6-4cc4-ba75-5c0330495d8a</webElementGuid>
+      <webElementGuid>be9578f1-8542-4c2a-b92c-961900806407</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>relative rounded-md font-medium h-fit disabled:cursor-not-allowed py-1.5 px-4 text-14px focus:ring-3 disabled:ring drop-shadow text-neutral-10 dark:text-neutral-10-dark disabled:ring-neutral-40 dark:disabled:ring-neutral-40-dark disabled:text-neutral-60 dark:disabled:text-neutral-60-dark disabled:bg-neutral-30 dark:disabled:bg-neutral-30-dark bg-primary-main dark:bg-primary-main-dark hover:bg-primary-hover dark:hover:bg-primary-hover-dark active:bg-primary-pressed dark:active:bg-primary-pressed-dark focus:bg-primary-hover dark:focus:bg-primary-hover-dark focus:ring-primary-focus dark:focus:ring-primary-focus-dark</value>
-      <webElementGuid>5a24ba57-a5b0-4b88-920a-034b6763acd6</webElementGuid>
+      <webElementGuid>3e709d9b-033f-41f5-9d84-68768b66f32e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cfcc0d40-6af9-4143-81ec-33d13e923d29</webElementGuid>
+      <webElementGuid>5db87f43-e195-46f7-ba33-e98b9ffbb363</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>8d90da25-a46e-4ee0-aa4f-d10f62790b37</webElementGuid>
+      <webElementGuid>be5a0d78-f3ea-4e14-a43a-94a86a70306a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-detail-save&quot;)</value>
-      <webElementGuid>00730221-70fa-450b-8c8a-60e53979fe70</webElementGuid>
+      <webElementGuid>1e8889a2-2d90-4246-b992-2a11d1cbee94</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,31 +79,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn-detail-save']</value>
-      <webElementGuid>3a6b9282-e559-4c22-b940-66b1027c316b</webElementGuid>
+      <webElementGuid>5e6acf6d-ff1c-484e-a832-e685a8298647</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div[2]/div/div[2]/div/button</value>
-      <webElementGuid>cf1ac49c-3224-4688-80f4-cc76f4284431</webElementGuid>
+      <value>//div[@id='root']/div[2]/div[2]/div/div[2]/div/button[2]</value>
+      <webElementGuid>cd143762-29fb-4948-ad78-3304029c166e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::button[1]</value>
-      <webElementGuid>be423a18-5f30-46cc-aa8a-7096a0f92da1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>f56c9426-8dc8-4022-8ca2-61ff95347520</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[3]/following::button[1]</value>
-      <webElementGuid>d5783cc7-85ab-45c7-ba57-9948d8c40cd5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intern'])[1]/following::button[2]</value>
+      <webElementGuid>a1622477-b387-4762-8405-7500f2de82dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,15 +111,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Information'])[1]/preceding::button[1]</value>
-      <webElementGuid>4741c8a1-5ab1-4d7b-9800-f8fa2829e27f</webElementGuid>
+      <webElementGuid>964036d4-1e94-4c52-be6a-cca094b4ebab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/button</value>
-      <webElementGuid>57aa8ff2-316a-47cb-a446-6ca166a58943</webElementGuid>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>9e7bcbc0-60de-4d9a-83fc-0691e760babc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,54 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'btn-detail-save' and @type = 'button' and (text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>d1c2f1a4-bdbf-422e-8bee-f02418e525cd</webElementGuid>
+      <webElementGuid>bafce881-c252-438f-8d9f-6573e6635436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access Rights'])[1]/following::button[2]</value>
+      <webElementGuid>5227ce2d-7b49-4ca1-9384-6f5567d1b1ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>7207195b-b820-4e0e-bd23-1246446e01df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::button[1]</value>
+      <webElementGuid>8a27455a-1fb0-42a9-add4-b756dbf877ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[3]/following::button[1]</value>
+      <webElementGuid>36353c3e-4ea5-4f66-8408-6b4638e894a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>cea14a5f-5fee-4659-bab4-19436ffe95e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create and Add Notes (Test)'])[1]/following::button[2]</value>
+      <webElementGuid>cebc602e-cf99-4547-aef3-812ba9d85fe3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

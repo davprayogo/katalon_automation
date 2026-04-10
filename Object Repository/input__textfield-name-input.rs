@@ -6,12 +6,12 @@
    <elementGuidId>8b54ce11-4f8d-4d75-8693-ea2dfdbbde84</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='textfield-name-input']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#textfield-name-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='textfield-name-input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f30acd3b-b1b9-4bed-9cb7-4757da434763</webElementGuid>
+      <webElementGuid>c2e337cf-d214-4a86-b711-3e1497209486</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>id</name>
       <type>Main</type>
       <value>textfield-name-input</value>
-      <webElementGuid>958e8fb6-e71a-4299-956c-97f02ea64754</webElementGuid>
+      <webElementGuid>239a428f-88fd-4b2f-98ab-9e5189569757</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Insert Group Name (e.g. Group 001, etc)</value>
-      <webElementGuid>e9756a2c-9d88-4c97-ba9e-8b72eb313028</webElementGuid>
+      <webElementGuid>ed9f2f57-154b-4abd-b88e-d4b92871e56c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,15 +47,15 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full min-w-0 outline-none bg-transparent text-neutral-90 dark:text-neutral-90-dark placeholder:text-neutral-50 dark:placeholder:text-neutral-50-dark disabled:cursor-not-allowed text-14px py-0.5</value>
-      <webElementGuid>abbe7531-9798-4f07-b70e-d65b7085b283</webElementGuid>
+      <webElementGuid>a6bcaf0b-c1b5-4c01-8f4f-6eb4853d83a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>I</value>
-      <webElementGuid>adbc04c6-e53b-4d4d-b637-c792fd6a7842</webElementGuid>
+      <value>Access Right</value>
+      <webElementGuid>0d62ee03-1586-48e3-a4c7-2113c2d0f5e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>name</name>
       <type>Main</type>
       <value>name</value>
-      <webElementGuid>7bf061a8-8525-4da7-9791-3b32ba910dc8</webElementGuid>
+      <webElementGuid>48beae50-53ff-495a-a1f3-0a45ab973dd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;textfield-name-input&quot;)</value>
-      <webElementGuid>f306d701-bf7e-4638-aa0f-80b24e27c8f9</webElementGuid>
+      <webElementGuid>2750509d-2526-4f7b-a003-e26a54a7152e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='textfield-name-input']</value>
-      <webElementGuid>d84dadee-03dc-4f0f-9fbf-868e9fa4540c</webElementGuid>
+      <webElementGuid>7e0bf860-cfcc-4b91-a2a5-3ed93924b81e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='textfield-name']/div/input</value>
-      <webElementGuid>4b65a21f-fe5c-4621-9f63-b0c4533a69a8</webElementGuid>
+      <webElementGuid>dc25f380-c4da-4b81-b8d1-806d4adb552d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>772253c7-2040-42c1-8255-028236b2fa9f</webElementGuid>
+      <webElementGuid>d830527b-aa6c-4e50-9707-d181ab6d245c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'textfield-name-input' and @placeholder = 'Insert Group Name (e.g. Group 001, etc)' and @name = 'name']</value>
-      <webElementGuid>73c25628-e088-4dc7-a81c-c5111da9e8ca</webElementGuid>
+      <webElementGuid>48acaca1-1578-4736-b8f8-837df8b92718</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

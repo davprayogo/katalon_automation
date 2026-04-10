@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create With Duplicate Group Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2dd5eb7b-4128-4fde-95ce-ac72076c3d72</testCaseGuid>
+</TestCaseEntity>

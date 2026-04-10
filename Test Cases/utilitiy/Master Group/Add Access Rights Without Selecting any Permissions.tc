@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Access Rights Without Selecting any Permissions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c38e21d-7c53-44db-b262-9be081a943ba</testCaseGuid>
+</TestCaseEntity>
